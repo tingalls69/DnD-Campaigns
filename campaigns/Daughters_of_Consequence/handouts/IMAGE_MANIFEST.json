@@ -1,0 +1,43 @@
+{
+  "Battle_Maps": [
+    "01_Wolf_and_Hare_Command_Post.png",
+    "02_Hillfort_Town_Square_and_Well.png",
+    "03_South_Gate_Barricade.png",
+    "04_Grain_Drying_Yard_Ambush_Site.png",
+    "05_Guardhouse_Holding_Level.png",
+    "06_Shrine_of_Saint_Orveth.png",
+    "07_Candlewash_Mothglass_Lane_House.png",
+    "08_Velmorrow_Candlewash_Canal.png",
+    "09_Old_Tollhouse_Road.png",
+    "10_Wet_Tree_Line_and_Pasture_Wall.png",
+    "11_Mercy_House_Interior.png",
+    "12_Closed_Eye_Threshold.png"
+  ],
+  "Portrait_Tokens": [
+    "Selene_Vaer.png",
+    "Marcella_Viretti.png",
+    "Kara.png",
+    "Eya.png",
+    "Zula.png",
+    "Jasna.png",
+    "Sewing_Needle.png",
+    "Mara.png",
+    "Vesper.png",
+    "Sister_Captain_Voss.png",
+    "Captain_Ruskell.png",
+    "Kelri.png",
+    "Viktorai_Darkstar.png",
+    "Liora_Vale.png",
+    "Sister_Maelin.png",
+    "Master_Iovan_Thrice_Sealed.png",
+    "Ashen_Choir_Cantor.png",
+    "Unknown_Mercy_House_Keeper.png",
+    "Unremembered_Saint_Symbol.png",
+    "Odessa_Lark_Memory_Token.png"
+  ],
+  "notes": [
+    "Hidden/unencountered NPC tokens are intentionally generic and spoiler-light.",
+    "Maps are top-down 5-foot-grid tactical maps for likely Arc 4 locations.",
+    "Portrait tokens are stylized token portraits/cards suitable for VTT handouts or battle map placement."
+  ]
+}

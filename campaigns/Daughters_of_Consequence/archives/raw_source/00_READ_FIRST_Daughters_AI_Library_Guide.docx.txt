@@ -1,0 +1,36 @@
+﻿Daughters of Consequence AI Library - READ FIRST
+Curated handoff library for a fresh AI Dungeon Master
+This mini-library is designed so a fresh AI can run the Daughters of Consequence campaign without reading a pile of overlapping, duplicate, and sometimes outdated files first. It consolidates the current best information from the user’s document library and preserves the major facts needed for continuity, mechanics, tone, and deep callbacks.
+Use these files in order:
+00_READ_FIRST_Daughters_AI_Library_Guide.docx - this orientation document and source map.
+01_Complete_Chronological_Story_Log.docx - the deep callback history, starting with Selene’s background and moving forward through every major campaign arc.
+02_Current_State_and_Arc4_Handoff.docx - the active current state after Hillfort and into Arc 4, including the Unremembered Saint / Ashen Choir direction.
+03_DM_Rules_Style_and_Play_Procedure.docx - non-negotiable rules, pacing, tone, dice, NPC autonomy, and scene procedure.
+04_Characters_Relationships_Items_and_Mechanics.docx - current party, mechanical snapshot, roles, relationships, items, and NPC handling.
+05_Unresolved_Threads_Deep_Lore_and_Arc_Planning.docx - future hooks, mirror/charm/patron lore, political threads, faction pressure, and suggested arc structures.
+Highest-priority rule: Selene Vaer is the only player-controlled character. Do not decide Selene’s actions, thoughts, words, spell choices, movement, reactions, romance, or emotional conclusions. The Daughters are DM-controlled allies with their own agency, but their competence must never override Selene’s choices.
+When choosing between duplicate or conflicting documents, use the newest/current-state documents first. The Arc 4 current character sheets supersede older level 6-7 sheets. The Arc 4 story handoff supersedes the post-Hillfort next-arc handoff for the current campaign beat. Older documents remain valuable for history and callbacks.
+Source documents reviewed or incorporated:
+Selene_Vaer_Campaign_Reference.docx
+Selene_Vaer_Story_Summary_and_Daughters_Character_Sheets.docx
+Elfhunt_Running_Campaign_Log.docx and updated variants
+DM_Rules_UPDATED_2026-05-22 / v2.docx
+Daughters_of_Consequence_Character_Sheets variants including with Mara and Magic Items
+Daughters_of_Consequence_PHB_Character_Sheets.docx
+Hillfort_Arc_Campaign_Reference.docx
+Daughters_of_Consequence_Next_Arc_DM_Handoff.docx
+Daughters_of_Consequence_Arc4_Story_Handoff_Current.docx
+Daughters_of_Consequence_Arc4_Current_PHB_Character_Sheets.docx
+Daughters_of_Consequence_Arc_4_DM_Outline and Improved.docx
+CAMPAIGN_MEMORY_SUMMARY.md
+DM_STYLE_GUIDE.md
+RULES_REVIEW.md
+Elfhunt_11397805.pdf as the source adventure reference for that completed arc
+Recommended fresh-AI reading workflow:
+Read this guide.
+Read the current-state handoff to know where play begins.
+Open the current character/mechanics file before any combat or checks.
+Use the full chronological log only when a callback, old NPC, unresolved thread, or emotional context matters.
+Keep the rules/style document active during play so the AI does not railroad, over-narrate, or misuse NPC allies.
+Use the unresolved-lore/planning document for future hooks, not to force one predetermined plot.
+Active current campaign start point: Arc 4, after the Hillfort / A False Life arc. The party is in or around Hillfort, Darkstar has been captured and is being transferred or contained, and the current threat is expanding toward the Road of Closed Eyes, the Unremembered Saint, the Ashen Choir, witness magic, memory/name erasure, and Selene’s closed-eye charm.

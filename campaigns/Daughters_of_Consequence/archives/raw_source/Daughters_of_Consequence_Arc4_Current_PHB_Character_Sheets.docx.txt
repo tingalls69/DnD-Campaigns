@@ -1,0 +1,1199 @@
+﻿Daughters of Consequence - Current Arc 4 PHB-Style Character Sheets
+Generated Arc 4 continuity checkpoint. This document contains only current known player-facing information and avoids hidden DM-only spoilers.
+Use Notes and Corrections
+This document updates the previous PHB-style Daughters of Consequence sheets to the current Arc 4 working state. It uses the older PHB-style sheets as baseline and applies the in-play Arc 4 level/progression corrections.
+Known current level baseline: Selene 9, Kara 9, Jasna 9, Zula 9, Sewing Needle 9, Eya 8, Marcella 8, Mara 5. Ves remains Selene’s Pact of the Chain pseudodragon familiar and does not track XP separately.
+Where exact spell preparation can change day-to-day, the sheet lists current/likely prepared combat and investigation choices used or stated in Arc 4. Adjust prepared spells after rests as normal. NPC builds remain character-faithful rather than optimized.
+Selene remains the only player-controlled character. All others are DM-controlled allies who act from their own knowledge, personalities, motives, fears, wounds, and limits.
+Character
+Build
+Defense / Key Numbers
+Core Role
+Selene Vaer
+Half-Elf Warlock 9, Great Old One, Pact of the Chain
+HP 65/65; AC 15; DC 17 / +9
+Player character; closed-eye charm; eldritch offense; identity/witness themes.
+Vesper "Ves"
+Pseudodragon familiar
+HP 7; AC 13; DC uses Selene where Investment applies
+Scout, warning, emotional guard, bonus-action attack when commanded.
+Kara of the Aureum
+Human Cleric 9, Life Domain
+HP 67/67; AC 18; DC 16 / +8
+Divine protector, healer, Darkstar containment, witness survival.
+Eya Harisa
+Human Cleric 8, Knowledge Domain
+HP 54/54; AC 16; DC 15 / +7
+Gentle healer, witness handler, calm-room and thought-reading support.
+Jasna
+Human Rogue 9, Mastermind
+HP 49/49; AC 14; Attacks +6
+Evidence, legal pressure, records, tactics, contradiction hunting.
+Zula Ozu
+Tiefling Wizard 9, Divination
+HP 39/39; AC 14 / 19 with Shield; DC 16 / +8
+Occult analysis, warding, Counterspell/Dispel, Identify, road logic.
+Marcella Viretti
+Human Bard 8, College of Lore
+HP 35/35; AC 13; DC 16 / +8
+Social blade, support magic, Cutting Words, morale, Selene romance.
+Sewing Needle
+Tabaxi Rogue 9, Thief
+HP 58/58; AC 16; Attacks +9
+Rooftops, stealth, locks, traps, scouting, irreverent survival instinct.
+Mara
+Human Fighter 5, Battle Master
+HP 44/44; AC 16; Attacks +6
+Direct melee, intimidation, guard, Bellbreaker, blunt protection.
+Selene Vaer
+Player Character - Half-Elf Warlock 9, Great Old One, Pact of the Chain
+Flavor / playstyle: Gothic, sensual, theatrical, dangerous; black/violet occult imagery; mirror/mask/identity/witness themes; sharp humor; protective bond with Ves; increasingly tied to closed-eye and patron mysteries.
+Core Character Sheet Fields
+Field
+Value
+Control
+Player Character
+Race / Class / Level
+Half-Elf Warlock 9
+Background / Feat
+Charlatan / Actor
+XP
+Track from current Arc 4 baseline; level 9 active
+Proficiency Bonus
++4
+AC
+15 with Mage Armor from Armor of Shadows; 12 without
+HP / Hit Dice
+65/65; 9d8
+Speed / Initiative
+30 ft.; +2
+Spell Save DC / Attack
+DC 17; +9 spell attack
+Pact Magic
+2 slots, both 5th level; short-rest recharge
+Senses
+Darkvision 60 ft.; passive Perception 14
+Languages
+Common, Elvish, Deep Speech
+Ability Scores and Saving Throws
+Ability
+Score
+Mod
+STR
+10
++0
+DEX
+15
++2
+CON
+15
++2
+INT
+14
++2
+WIS
+11
++0
+CHA
+20
++5
+Saving Throws: Wis +4, Cha +9; Str +0, Dex +2, Con +2, Int +2
+Skills
+Skill / Tool
+Modifier / Notes
+Arcana
++6
+Deception
++9; Actor may grant advantage when passing as another person
+Insight
++4
+Intimidation
++9
+Perception
++4
+Sleight of Hand
++6
+Proficiencies
+Category
+Proficiencies
+Armor
+Light armor
+Weapons
+Simple weapons
+Tools
+Disguise kit, forgery kit
+Saving Throws
+Wisdom, Charisma
+Features and Traits
+Feature
+Rules / Notes
+Awakened Mind
+Telepathy to one visible creature within 30 ft. if it understands a language.
+Entropic Ward
+Reaction once per rest to impose disadvantage on one attack; if it misses, advantage on next attack against that creature.
+Pact of the Chain
+Ves is Selene’s pseudodragon familiar.
+Investment of the Chain Master
+Bonus-action command for Ves to attack; Ves attacks count as magical; Ves save DCs can use Selene’s DC; reaction resistance for Ves.
+Agonizing Blast
+Add CHA modifier to Eldritch Blast damage.
+Armor of Shadows
+Mage Armor at will.
+Ascendant Step
+Levitate self at will; concentration as normal.
+Whispers of the Grave
+Speak with Dead at will.
+Fey Ancestry
+Advantage against being charmed; magic cannot put Selene to sleep.
+Attacks and Combat Options
+Attack / Option
+To Hit or DC
+Damage / Notes
+Eldritch Blast
++9
+2 beams; each 1d10+5 force
+Mind Sliver
+DC 17 Int
+2d6 psychic; target subtracts 1d4 from next save before end of Selene’s next turn
+Dagger
++6
+1d4+2 piercing; finesse/thrown 20/60
+Dart
++6
+1d4+2 piercing; thrown 20/60
+Spellcasting / Magic
+Category
+Details
+Cantrips
+Eldritch Blast, Minor Illusion, Prestidigitation, Mind Sliver
+Known Spells
+Armor of Agathys, Dissonant Whispers, Invisibility, Detect Thoughts, Hypnotic Pattern, Dispel Magic, Dimension Door, Scrying, Hold Monster
+At-Will Invocation Magic
+Mage Armor, Levitate self, Speak with Dead
+Concentration Reminder
+Levitate, Detect Thoughts, Hypnotic Pattern, Invisibility, Hold Monster, Scrying conflict as usual.
+Equipment, Story Items, and Magic Items
+Item / Category
+Notes
+Weapons / Tools
+Dagger x3, dart x1, disguise kit, forgery kit
+Closed-Eye Charm
+Now identified as a seal with Witness-Seal, Refusal of Passage, Closed Witness, and unknown deeper connection. Do not remove without strong precautions.
+Argent Glass
+Small silver hand mirror; dangerous; keep covered and isolated.
+Silver anklet with dark stone
+Arcane focus chosen in Arc 1; worn as part of Queen of Consequence attire.
+Other
+Mara Vell’s hair safely stored; pale-green Tavaril key; aliases include Odessa Lark and Sabine Crowe.
+Personality, Ideals, Bonds, Flaws, and Conditions
+Do not decide Selene’s thoughts, actions, spell choices, dialogue, movement, romance, or emotional conclusions.
+Current outfit: Queen of Consequence - black and silver, simple choker with small closed-eye charm at throat, black shawl, silver/dark-stone jewelry.
+Death Saves: Successes [ ] [ ] [ ]  Failures [ ] [ ] [ ]
+Current Conditions: None known at checkpoint unless changed in play.
+Vesper "Ves"
+Pact of the Chain Familiar - Pseudodragon
+Flavor / playstyle: Black scales, violet eyes, opalescent purple sheen; cat-like affection, pride, possessiveness, jealousy, and fierce protection of Selene. Communicates through emotions, images, chirps, hisses, posture, and familiar bond.
+Core Character Sheet Fields
+Field
+Value
+Control
+Selene’s familiar
+Creature
+Tiny dragon, pseudodragon
+XP
+Does not track XP separately
+AC
+13
+HP / Hit Dice
+7 (2d4+2)
+Speed / Initiative
+15 ft.; fly 60 ft.; +2
+Senses
+Blindsight 10 ft.; darkvision 60 ft.; passive Perception 13
+Communication
+Empathic/telepathic familiar bond with Selene
+Role
+Scout, warning sense, emotional anchor, emergency combatant
+Ability Scores and Saving Throws
+Ability
+Score
+Mod
+STR
+6
+-2
+DEX
+15
++2
+CON
+13
++1
+INT
+10
++0
+WIS
+12
++1
+CHA
+10
++0
+Saving Throws: Magic Resistance: advantage on saving throws against spells and magical effects; Investment may use Selene’s DC for sting effects.
+Skills
+Skill / Tool
+Modifier / Notes
+Perception
++3
+Stealth
++4
+Proficiencies
+Category
+Proficiencies
+Attacks
+Bite, Sting
+Skills
+Perception, Stealth
+Special
+Magic Resistance; familiar bond; Investment of the Chain Master
+Features and Traits
+Feature
+Rules / Notes
+Magic Resistance
+Advantage on saves against spells and magical effects.
+Limited Telepathy / Bond
+Shares emotions, images, and simple thoughts with Selene; protective but not omniscient.
+Investment of the Chain Master
+Can attack by Selene’s bonus action; attacks count as magical; sting save can use Selene’s DC; Selene can grant resistance as reaction.
+Attacks and Combat Options
+Attack / Option
+To Hit or DC
+Damage / Notes
+Bite
++4
+1 piercing
+Sting
++4
+1 piercing; DC 17 Con save when Investment applies or poisoned for 1 hour; fail by 5+ may cause unconsciousness until damaged/awakened
+Equipment, Story Items, and Magic Items
+Item / Category
+Notes
+Bond
+Acts through Selene’s familiar bond.
+Tactics
+Patrols the inn / guardhouse / public well triangle; listens to Needle for repositioning while being rude about it.
+Personality, Ideals, Bonds, Flaws, and Conditions
+Ves has accepted Marcella as conditionally tolerated. She should remain proud and possessive, not passive.
+Death Saves: Successes [ ] [ ] [ ]  Failures [ ] [ ] [ ]
+Current Conditions: None known at checkpoint unless changed in play.
+Kara of the Aureum
+DM-Controlled Ally - Human Cleric 9, Life Domain
+Flavor / playstyle: Slightly celestial/Aureum presence; direct, protective, disciplined, oath-bound. Heals injured victims and protects witnesses without waiting for orders.
+Core Character Sheet Fields
+Field
+Value
+Control
+DM-Controlled Ally
+Race / Class / Level
+Human Cleric 9
+Domain
+Life Domain
+Background
+Acolyte
+XP
+Track from current Arc 4 baseline; level 9 active
+Proficiency Bonus
++4
+AC
+18 with chain mail and shield
+HP / Hit Dice
+67/67; 9d8
+Speed / Initiative
+30 ft.; +1
+Spell Save DC / Attack
+DC 16; +8
+Spell Slots
+1st: 4, 2nd: 3, 3rd: 3, 4th: 3, 5th: 1
+Prepared Spell Count
+13 cleric spells plus domain spells
+Senses
+Passive Perception 18
+Languages
+Common, Celestial, Elvish
+Ability Scores and Saving Throws
+Ability
+Score
+Mod
+STR
+14
++2
+DEX
+12
++1
+CON
+14
++2
+INT
+12
++1
+WIS
+19
++4
+CHA
+14
++2
+Saving Throws: Wis +8, Cha +6; Str +2, Dex +1, Con +2, Int +1
+Skills
+Skill / Tool
+Modifier / Notes
+Insight
++8
+Medicine
++8
+Religion
++5
+Persuasion
++6
+Perception
++8
+Proficiencies
+Category
+Proficiencies
+Armor
+Light, medium, shields; heavy armor from Life Domain
+Weapons
+Simple weapons
+Saving Throws
+Wisdom, Charisma
+Skills
+Insight, Medicine, Religion, Persuasion, Perception
+Features and Traits
+Feature
+Rules / Notes
+Spellcasting
+Wisdom-based cleric spellcasting; prepared spells; ritual casting for prepared rituals.
+Channel Divinity
+2/rest: Turn Undead or Preserve Life.
+Destroy Undead
+Destroys appropriate low-CR undead affected by Turn Undead.
+Disciple of Life
+Healing spells restore extra HP equal to 2 + spell level.
+Blessed Healer
+When Kara heals another with a spell, Kara also regains HP.
+Divine Strike
+Once/turn weapon hit can deal extra radiant damage as cleric feature.
+Role Limit
+Direct, protective, duty-bound; not a manipulator or oracle.
+Attacks and Combat Options
+Attack / Option
+To Hit or DC
+Damage / Notes
+Mace
++6
+1d6+2 bludgeoning
+Sacred Flame
+DC 16 Dex
+2d8 radiant
+Spiritual Weapon
++8 spell
+Force damage as spell; bonus action while active
+Spellcasting / Magic
+Category
+Details
+Cantrips
+Guidance, Sacred Flame, Spare the Dying, Thaumaturgy
+Domain Spells
+Bless, Cure Wounds, Lesser Restoration, Spiritual Weapon, Beacon of Hope, Revivify, Death Ward, Guardian of Faith, Mass Cure Wounds, Raise Dead
+Likely Prepared
+Detect Magic, Healing Word, Sanctuary, Shield of Faith, Aid, Prayer of Healing, Dispel Magic, Spirit Guardians, Protection from Evil and Good, Freedom of Movement, Remove Curse, Greater Restoration as needed, utility/healing selections adjusted daily
+Equipment, Story Items, and Magic Items
+Item / Category
+Notes
+Armor / Weapons
+Chain mail, shield, mace
+Gear
+Holy symbol, healer’s kit, priest’s pack, Aureum vestments, sealed witness papers
+Aureum Witness Brooch
+Personal magic item; use when witness protection, radiant testimony, and truth preservation are thematically appropriate.
+Personality, Ideals, Bonds, Flaws, and Conditions
+Current deployment: rotates between inn and shrine/well line; strongly suited to holding Darkstar or protecting affected civilians.
+Death Saves: Successes [ ] [ ] [ ]  Failures [ ] [ ] [ ]
+Current Conditions: None known at checkpoint unless changed in play.
+Eya Harisa
+DM-Controlled Ally - Human Cleric 8, Knowledge Domain
+Flavor / playstyle: Gentle investigator, witness-handler, healer, and protector of vulnerable survivors. Brave in quiet ways, not a battlefield commander.
+Core Character Sheet Fields
+Field
+Value
+Control
+DM-Controlled Ally
+Race / Class / Level
+Human Cleric 8
+Domain
+Knowledge Domain
+Background
+Sage
+XP
+Track from current Arc 4 baseline; level 8 active
+Proficiency Bonus
++3
+AC
+16 with scale mail and shield
+HP / Hit Dice
+54/54; 8d8
+Speed / Initiative
+30 ft.; +1
+Spell Save DC / Attack
+DC 15; +7
+Spell Slots
+1st: 4, 2nd: 3, 3rd: 3, 4th: 2
+Prepared Spell Count
+12 cleric spells plus domain spells
+Senses
+Passive Perception 16
+Languages
+Common, Celestial, Elvish, Draconic
+Ability Scores and Saving Throws
+Ability
+Score
+Mod
+STR
+8
+-1
+DEX
+12
++1
+CON
+14
++2
+INT
+14
++2
+WIS
+18
++4
+CHA
+12
++1
+Saving Throws: Wis +7, Cha +4; Str -1, Dex +1, Con +2, Int +2
+Skills
+Skill / Tool
+Modifier / Notes
+Insight
++7
+Investigation
++5
+Religion
++8; Blessings of Knowledge
+Arcana
++8; Blessings of Knowledge
+Persuasion
++4
+Perception
++7
+Proficiencies
+Category
+Proficiencies
+Armor
+Light, medium, shields
+Weapons
+Simple weapons
+Tools
+Calligrapher’s supplies
+Saving Throws
+Wisdom, Charisma
+Skills
+Insight, Investigation, Religion, Arcana, Persuasion, Perception
+Features and Traits
+Feature
+Rules / Notes
+Spellcasting
+Wisdom-based cleric casting; prepared rituals can be cast as rituals.
+Channel Divinity
+2/rest: Turn Undead, Knowledge of the Ages, or Read Thoughts.
+Blessings of Knowledge
+Improved use of Arcana and Religion reflected above.
+Knowledge of the Ages
+Temporarily gain proficiency in one skill or tool.
+Read Thoughts
+Channel Divinity to read surface thoughts; may follow with Suggestion if conditions apply.
+Destroy Undead
+Destroys appropriate low-CR undead affected by Turn Undead.
+Attacks and Combat Options
+Attack / Option
+To Hit or DC
+Damage / Notes
+Dagger
++4
+1d4+1 piercing; finesse/thrown
+Sacred Flame
+DC 15 Dex
+2d8 radiant
+Spellcasting / Magic
+Category
+Details
+Cantrips
+Guidance, Sacred Flame, Light, Resistance
+Domain Spells
+Command, Identify, Augury, Suggestion, Nondetection, Speak with Dead, Arcane Eye, Confusion
+Likely Prepared
+Detect Magic, Healing Word, Sanctuary, Protection from Evil and Good, Calm Emotions, Lesser Restoration, Zone of Truth, Dispel Magic, Revivify, Bless, Aid, Death Ward or situational protection
+Equipment, Story Items, and Magic Items
+Item / Category
+Notes
+Armor / Weapons
+Scale mail, shield, dagger
+Gear
+Holy symbol, scholar’s pack, field notes, sealed message thread, Aureum route markers
+Open-Eye Pendant
+Personal magic item; use for witness-sense, awareness, and careful divine perception when appropriate.
+Personality, Ideals, Bonds, Flaws, and Conditions
+Current role: calm room, public warning support, affected-civilian triage, and witness-safe questioning.
+Death Saves: Successes [ ] [ ] [ ]  Failures [ ] [ ] [ ]
+Current Conditions: None known at checkpoint unless changed in play.
+Jasna
+DM-Controlled Ally - Human Rogue 9, Mastermind
+Flavor / playstyle: Brilliant, legally dangerous, physically vulnerable. Her power is judgment, contradiction, testimony, and records, not acrobatics.
+Core Character Sheet Fields
+Field
+Value
+Control
+DM-Controlled Ally
+Race / Class / Level
+Human Rogue 9
+Roguish Archetype
+Mastermind
+Background
+Sage / legal scholar
+XP
+Track from current Arc 4 baseline; level 9 active
+Proficiency Bonus
++4
+AC
+14 with reinforced/studded leather equivalent
+HP / Hit Dice
+49/49; 9d8
+Speed / Initiative
+30 ft.; +2
+Passive Perception
+20
+Sneak Attack
+5d6
+Languages
+Common, Elvish, Dwarvish, Draconic, Thieves’ Cant / legal-civic cant
+Ability Scores and Saving Throws
+Ability
+Score
+Mod
+STR
+8
+-1
+DEX
+14
++2
+CON
+12
++1
+INT
+18
++4
+WIS
+15
++2
+CHA
+14
++2
+Saving Throws: Dex +6, Int +8; Str -1, Con +1, Wis +2, Cha +2
+Skills
+Skill / Tool
+Modifier / Notes
+Investigation
++12; Expertise
+History
++12; Expertise
+Insight
++10; Expertise
+Perception
++10; Expertise
+Persuasion
++10; Expertise
+Intimidation
++6
+Forgery Kit
++12; Expertise
+Proficiencies
+Category
+Proficiencies
+Armor
+Light armor
+Weapons
+Simple weapons, hand crossbows, longswords, rapiers, shortswords
+Tools
+Thieves’ tools +6, disguise kit +4, forgery kit +12, dragonchess set +8, calligrapher’s supplies +8
+Saving Throws
+Dexterity, Intelligence
+Features and Traits
+Feature
+Rules / Notes
+Expertise
+Investigation, History, Insight, Perception, Persuasion, Forgery Kit.
+Sneak Attack
+5d6 once/turn when conditions allow; emergency use more than default behavior.
+Cunning Action
+Bonus action Dash, Disengage, or Hide.
+Uncanny Dodge
+Reaction to halve damage from one attack she can see.
+Evasion
+Dex save for half damage: success = none, failure = half.
+Master of Tactics
+Bonus-action Help; attack Help can target a creature within 30 ft. if it can see/hear Jasna.
+Insightful Manipulator
+After observing a creature outside combat, can learn comparative mental stats/class levels per Mastermind feature.
+Attacks and Combat Options
+Attack / Option
+To Hit or DC
+Damage / Notes
+Hand Crossbow
++6
+1d6+2 piercing; Sneak Attack may apply
+Dagger
++6
+1d4+2 piercing; finesse/thrown
+Equipment, Story Items, and Magic Items
+Item / Category
+Notes
+Armor / Weapons
+Reinforced/studded leather equivalent, hand crossbow, dagger
+Tools / Gear
+Legal records, case notes, seals, forgery kit, calligrapher’s supplies
+Inkwell of the Unaltered Record
+Personal magic item; use when preserving testimony, exposing alteration, or recording dangerous facts.
+Personality, Ideals, Bonds, Flaws, and Conditions
+Current role: evidence table, chain of custody, safe phrasing, town warning logic, avoiding NPC knowledge bleed.
+Death Saves: Successes [ ] [ ] [ ]  Failures [ ] [ ] [ ]
+Current Conditions: None known at checkpoint unless changed in play.
+Zula Ozu
+DM-Controlled Ally - Tiefling Wizard 9, School of Divination
+Flavor / playstyle: Ink-stained occult tattooist; practical, dry, symbol-focused. Reads marks, patterns, wards, road magic, and body language like skin.
+Core Character Sheet Fields
+Field
+Value
+Control
+DM-Controlled Ally
+Race / Class / Level
+Tiefling Wizard 9
+Arcane Tradition
+Divination
+Background
+Guild Artisan / tattooist-occulist
+XP
+Track from current Arc 4 baseline; level 9 active
+Proficiency Bonus
++4
+AC
+14 with Mage Armor; 19 with Shield for a round
+HP / Hit Dice
+39/39; 9d6
+Speed / Initiative
+30 ft.; +2
+Spell Save DC / Attack
+DC 16; +8
+Spell Slots
+1st: 4, 2nd: 3, 3rd: 3, 4th: 3, 5th: 1
+Prepared Capacity
+13 spells prepared with INT 19
+Senses
+Darkvision 60 ft.
+Languages
+Common, Infernal, Elvish
+Ability Scores and Saving Throws
+Ability
+Score
+Mod
+STR
+8
+-1
+DEX
+14
++2
+CON
+12
++1
+INT
+19
++4
+WIS
+13
++1
+CHA
+12
++1
+Saving Throws: Int +8, Wis +5; Str -1, Dex +2, Con +1, Cha +1
+Skills
+Skill / Tool
+Modifier / Notes
+Arcana
++8
+Investigation
++8
+Insight
++5
+Sleight of Hand
++6
+Proficiencies
+Category
+Proficiencies
+Armor
+None
+Weapons
+Daggers, darts, slings, quarterstaffs, light crossbows
+Tools
+Tattoo tools, ink needles, magnifying lens, coded sketchbook
+Saving Throws
+Intelligence, Wisdom
+Features and Traits
+Feature
+Rules / Notes
+Tiefling Traits
+Darkvision, fire resistance, Infernal Legacy.
+Spellcasting
+INT-based wizard casting; ritual casting from spellbook.
+Arcane Recovery
+Recover limited spell slot levels after short rest once/day.
+Divination Savant
+Reduced copying cost/time for divination spells.
+Portent
+Roll two d20s after long rest; replace later rolls when applicable.
+Expert Divination
+Casting divination of 2nd level or higher with a slot restores one lower-level spell slot.
+Attacks and Combat Options
+Attack / Option
+To Hit or DC
+Damage / Notes
+Dagger
++6
+1d4+2 piercing; finesse/thrown
+Fire Bolt
++8
+2d10 fire
+Spellcasting / Magic
+Category
+Details
+Cantrips
+Mage Hand, Minor Illusion, Fire Bolt, Prestidigitation
+Likely Prepared
+Mage Armor, Detect Magic, Identify, Shield, Web, Detect Thoughts, Dispel Magic, Counterspell, Nondetection, Glyph of Warding, Arcane Eye, Locate Creature, Wall of Force or Rary’s Telepathic Bond as current 5th-level preparation
+Spellbook Highlights
+Mage Armor, Detect Magic, Identify, Shield, Disguise Self, Comprehend Languages, Find Familiar, Feather Fall, Web, Detect Thoughts, Locate Object, Mirror Image, Invisibility, Dispel Magic, Clairvoyance, Counterspell, Nondetection, Glyph of Warding, Arcane Eye, Locate Creature, Wall of Force, Rary’s Telepathic Bond
+Equipment, Story Items, and Magic Items
+Item / Category
+Notes
+Armor / Weapons
+Dagger, component pouch, spellbook
+Tools / Gear
+Ink needles, tattoo tools, magnifying lens, coded sketchbook, ward papers
+Needle of Warded Ink
+Personal magic item; use for warded ink, seals, marks, and occult diagrams when appropriate.
+Personality, Ideals, Bonds, Flaws, and Conditions
+Current role: ward the Wolf and Hare, inspect evidence, decode ash foci/road-stitches, and veto cursed-object raccoon behavior.
+Death Saves: Successes [ ] [ ] [ ]  Failures [ ] [ ] [ ]
+Current Conditions: None known at checkpoint unless changed in play.
+Marcella Viretti
+DM-Controlled Ally - Human Bard 8, College of Lore
+Flavor / playstyle: Noble social weapon. Elegant, cutting, romantic, brave, and physically vulnerable compared with true frontliners. Dialogue should be sharp but not omnipresent.
+Core Character Sheet Fields
+Field
+Value
+Control
+DM-Controlled Ally
+Race / Class / Level
+Human Bard 8
+Bard College
+College of Lore
+Background
+Noble
+XP
+Track from current Arc 4 baseline; level 8 active
+Proficiency Bonus
++3
+AC
+13 with leather armor
+HP / Hit Dice
+35/35; 8d8
+Speed / Initiative
+30 ft.; +2
+Spell Save DC / Attack
+DC 16; +8 spell attack
+Spell Slots
+1st: 4, 2nd: 3, 3rd: 3, 4th: 2
+Spells Known
+11 bard spells known, plus 2 Additional Magical Secrets
+Senses
+Passive Perception 13
+Languages
+Common, Elvish, Halfling
+Ability Scores and Saving Throws
+Ability
+Score
+Mod
+STR
+8
+-1
+DEX
+14
++2
+CON
+12
++1
+INT
+12
++1
+WIS
+10
++0
+CHA
+20
++5
+Saving Throws: Dex +5, Cha +8; Str -1, Con +1, Int +1, Wis +0
+Skills
+Skill / Tool
+Modifier / Notes
+Deception
++11; Expertise/character emphasis
+Persuasion
++11; Expertise
+Performance
++11; campaign emphasis for public presence
+Insight
++3
+History
++4
+Perception
++3
+Proficiencies
+Category
+Proficiencies
+Armor
+Light armor
+Weapons
+Simple weapons, hand crossbows, longswords, rapiers, shortswords
+Tools
+Lute or court instrument, disguise kit or noble social tools as established
+Saving Throws
+Dexterity, Charisma
+Features and Traits
+Feature
+Rules / Notes
+Bardic Inspiration
+d8; refreshes on short rest due to Font of Inspiration.
+Jack of All Trades
+Half proficiency to ability checks not already proficient.
+Song of Rest
+d6 healing boost during short rest.
+Cutting Words
+Reaction; must include specific cutting words tailored to target and situation.
+Font of Inspiration
+Bardic Inspiration refreshes on short rest.
+Countercharm
+Can help allies resist fear/charm with performance.
+Additional Magical Secrets
+Command and Mirror Image chosen for social dominance and self-preservation.
+Attacks and Combat Options
+Attack / Option
+To Hit or DC
+Damage / Notes
+Dagger
++5
+1d4+2 piercing; finesse/thrown
+Vicious Mockery
+DC 16 Wis
+2d4 psychic; disadvantage on next attack on failed save
+Dissonant Whispers
+DC 16 Wis
+Psychic damage and forced movement on failed save
+Spellcasting / Magic
+Category
+Details
+Cantrips
+Vicious Mockery, Message, Minor Illusion
+Known Bard Spells
+Dissonant Whispers, Healing Word, Detect Thoughts, Enhance Ability, Mirror Image, Command, Hypnotic Pattern, Dispel Magic, Greater Invisibility, Dimension Door, Polymorph or a situational 4th-level bard option if confirmed
+Additional Magical Secrets
+Command, Mirror Image
+Combat Style
+Backline social/control support; uses fan, words, movement, and magic rather than front-line weapon fighting.
+Equipment, Story Items, and Magic Items
+Item / Category
+Notes
+Armor / Weapons
+Elegant light armor or protective adventuring attire; dagger
+Viretti Fan of Polite Ruin
+Personal magic item; use for social pressure, Cutting Words flavor, and theatrical intimidation/support.
+Current Attire
+The Velvet Cruelty: burgundy velvet, gold jewelry, dramatic mantle/half-cape, fan in hand.
+Personality, Ideals, Bonds, Flaws, and Conditions
+Relationship with Selene is active and romantic; show intimacy without making every scene romance. Marcella should not become a trained frontliner despite bard mechanics.
+Death Saves: Successes [ ] [ ] [ ]  Failures [ ] [ ] [ ]
+Current Conditions: None known at checkpoint unless changed in play.
+Sewing Needle
+DM-Controlled Ally - Tabaxi Rogue 9, Thief
+Flavor / playstyle: Feline, roofwise, practical, sharp-tongued, self-preserving, brave in tight spaces. Formerly made a life-changing choice to help the Daughters after working for a man who was secretly a demon.
+Core Character Sheet Fields
+Field
+Value
+Control
+DM-Controlled Ally
+Race / Class / Level
+Tabaxi Rogue 9
+Roguish Archetype
+Thief
+Background
+Criminal / burglar-scout
+XP
+Track from current Arc 4 baseline; level 9 active
+Proficiency Bonus
++4
+AC
+16 with leather armor and high Dexterity
+HP / Hit Dice
+58/58; 9d8
+Speed / Initiative
+30 ft.; climb 30 ft.; +5
+Passive Perception
+19
+Sneak Attack
+5d6
+Languages
+Common, Thieves’ Cant, Tabaxi or equivalent story language
+Ability Scores and Saving Throws
+Ability
+Score
+Mod
+STR
+10
++0
+DEX
+20
++5
+CON
+14
++2
+INT
+14
++2
+WIS
+12
++1
+CHA
+12
++1
+Saving Throws: Dex +9, Int +6; Str +0, Con +2, Wis +1, Cha +1
+Skills
+Skill / Tool
+Modifier / Notes
+Stealth
++13; Expertise
+Acrobatics
++13; Expertise
+Thieves’ Tools
++13; Expertise
+Sleight of Hand
++13; Expertise
+Perception
++9; Expertise or heightened scout emphasis
+Investigation
++10; Expertise/route-and-trap emphasis
+Athletics
++4
+Insight
++5
+Proficiencies
+Category
+Proficiencies
+Armor
+Light armor
+Weapons
+Simple weapons, hand crossbows, longswords, rapiers, shortswords
+Tools
+Thieves’ tools, disguise/route tools as established
+Saving Throws
+Dexterity, Intelligence
+Features and Traits
+Feature
+Rules / Notes
+Feline Agility
+Double movement for a turn; cannot use again until moving 0 on a turn.
+Cat’s Claws
+Climbing and natural claw attack.
+Expertise
+Stealth, Acrobatics, Thieves’ Tools, Sleight of Hand, Investigation, Perception as working scout set.
+Sneak Attack
+5d6 once/turn when conditions allow.
+Cunning Action
+Bonus action Dash, Disengage, or Hide.
+Uncanny Dodge
+Reaction to halve damage from one attack she can see.
+Evasion
+Dex save for half damage: success = none, failure = half.
+Fast Hands
+Bonus action use of thieves’ tools, object interaction, or certain item uses.
+Second-Story Work
+Climbing no longer costs extra movement; running jumps improve based on Dexterity modifier.
+Supreme Sneak
+Advantage on Stealth if moving no more than half speed.
+Attacks and Combat Options
+Attack / Option
+To Hit or DC
+Damage / Notes
+Shortsword
++9
+1d6+5 piercing; Sneak Attack may apply
+Dagger
++9
+1d4+5 piercing; finesse/thrown 20/60
+Shortbow
++9
+1d6+5 piercing; range 80/320
+Claws
++9
+1d4+5 slashing
+Equipment, Story Items, and Magic Items
+Item / Category
+Notes
+Armor / Weapons
+Leather armor, shortsword, daggers, shortbow
+Tools / Gear
+Thieves’ tools, dark cloak, climbing cord, chalk, wax, lock shims, old route tokens
+Sable Gloves of the Second Story
+Personal magic item; use for climbing, quiet entries, second-story work, and impossible-feeling exits.
+Personality, Ideals, Bonds, Flaws, and Conditions
+Current deployment: inn roof and upper windows; can direct Ves repositioning during patrol. She should not be flattened into only architecture commentary.
+Death Saves: Successes [ ] [ ] [ ]  Failures [ ] [ ] [ ]
+Current Conditions: None known at checkpoint unless changed in play.
+Mara
+DM-Controlled Ally - Human Fighter 5, Battle Master
+Flavor / playstyle: Scarred lower-camp muscle, former Shandra runner/contact, reluctant witness. Direct, protective, volatile, blunt, and increasingly attached to the Daughters despite resisting softer language.
+Core Character Sheet Fields
+Field
+Value
+Control
+DM-Controlled Ally
+Race / Class / Level
+Human Fighter 5
+Martial Archetype
+Battle Master
+Background
+Lower-camp enforcer / Shandra-network survivor
+XP
+Track from current Arc 4 baseline; level 5 active
+Proficiency Bonus
++3
+AC
+16 with chain shirt and shield
+HP / Hit Dice
+44/44; 5d10
+Speed / Initiative
+30 ft.; +1
+Superiority Dice
+4d8 per short rest
+Senses
+Passive Perception 11
+Languages
+Common, street/lower-route signs as appropriate
+Ability Scores and Saving Throws
+Ability
+Score
+Mod
+STR
+16
++3
+DEX
+12
++1
+CON
+14
++2
+INT
+10
++0
+WIS
+12
++1
+CHA
+11
++0
+Saving Throws: Str +6, Con +5; Dex +1, Int +0, Wis +1, Cha +0
+Skills
+Skill / Tool
+Modifier / Notes
+Athletics
++6
+Intimidation
++3 or higher when Bellbreaker/context applies
+Perception
++1
+Insight
++1
+Survival
++4 if lower-route familiarity applies
+Lower-camp route knowledge
+Knows runner signs, dead drops, message habits, and route pressure.
+Proficiencies
+Category
+Proficiencies
+Armor
+Light armor, medium armor, shields
+Weapons
+Simple and martial weapons
+Tools
+Lower-route practical tools; gaming set or artisan tools if established
+Saving Throws
+Strength, Constitution
+Features and Traits
+Feature
+Rules / Notes
+Second Wind
+Bonus action heal 1d10+5 once per short rest.
+Action Surge
+Take one additional action on turn once per short rest.
+Extra Attack
+Two attacks when taking the Attack action.
+Combat Superiority
+Uses maneuvers with superiority dice.
+Battle Master Maneuvers
+Recommended/current set: Menacing Attack, Trip Attack, Precision Attack; fourth maneuver may be Riposte or Commanding Presence depending scene.
+Reluctant Daughter
+Officially joined the Daughters after Hillfort; will guard, restrain, drag, and break things but is more than a door guard.
+Attacks and Combat Options
+Attack / Option
+To Hit or DC
+Damage / Notes
+Longsword, one-handed
++6
+1d8+3 slashing; can add superiority die effects
+Longsword, two-handed
++6
+1d10+3 slashing
+Dagger
++6
+1d4+3 piercing; finesse/thrown 20/60
+Light crossbow
++4
+1d8+1 piercing; range 80/320
+Bellbreaker
++6
+Use longsword or weapon profile if defined; personal magic-item effects story-driven until fully mechanically defined
+Equipment, Story Items, and Magic Items
+Item / Category
+Notes
+Armor / Weapons
+Chain shirt, shield, longsword/Bellbreaker, 2 daggers, light crossbow, 20 bolts
+Gear
+Lower-camp route knowledge, practical tools, guarded witness notes
+Bellbreaker
+Personal magic item; use for intimidation, breaking control, and lower-route survivor symbolism as appropriate.
+Personality, Ideals, Bonds, Flaws, and Conditions
+Mara is not just a protector archetype. She has wants, pain, limits, humor, and a growing place in the group. She dislikes soft names but may accept a truer one someday.
+Death Saves: Successes [ ] [ ] [ ]  Failures [ ] [ ] [ ]
+Current Conditions: None known at checkpoint unless changed in play.
+Current Conditions, Resources, and Document Maintenance Notes
+Current party state at checkpoint: after a short nap, Selene is rested emotionally but not necessarily long-rest reset unless explicitly declared. Current exact spell slots/short-rest resources should be confirmed before combat resumes. Selene’s earlier battle damage was healed to 64/65 during the ambush and later rested; use 65/65 unless the DM chooses strict no-long-rest tracking from earlier scenes.
+Prepared spells for clerics and wizard can change after rests. The lists above reflect current Arc 4 tactics and spells seen or stated in play. Confirm daily prepared lists after the next long rest.
+The standing DM rule remains: track HP, spell slots, conditions, concentration, hit dice, inventory/evidence, and active effects when relevant; update this document whenever mechanics change.

@@ -1,0 +1,68 @@
+﻿Unresolved Threads, Deep Lore, and Arc Planning
+Future hooks and DM-only guidance
+Deep lore safety
+Reveal mirror, charm, patron, and Witness Road lore slowly through play. Selene knows pieces, not the full truth.
+No mirror scene should happen without explicit player choice. Never force Selene to use the Argent Glass.
+The mirror and charm should create temptation, procedure, risk, and discovery, not random punishment.
+Personal threads should support the main adventure rather than replacing it unless the user chooses to pivot.
+NPCs should not know Selene’s private Odessa backstory unless she reveals it in-world.
+Mirror, charm, and patron
+Element
+Current truth / future use
+Closed-Eye Charm
+Protective inheritance from Mara Vell. Closes intrusion and remembers who tried. Learn it by testing harmless intrusions first: minor charms, illusions, mind-touching spells from trusted allies, while recording reactions. Never start with the mirror.
+Argent Glass
+Dangerous mirror/door through the Shadowfell or something using it as a hall. Opens to the Witness Behind Glass. Do not use by candlelight; do not reflect Selene and another person at once; do not ask who is watching; do not uncover under fear/grief/desperation/anger.
+Witness Behind Glass
+Distinct from Selene’s patron. Seeks Selene because of the mirror and because the mirror chose not to stay lost. Name is dangerous with wanting and worst before glass.
+Selene’s patron
+Witness Beneath the Root / Closed Eye Behind Glass. Unknown to most, not simply evil, not easily researched in libraries. Name is a witness mark, not a lure. Tied to names, witnesses, debts, roots, reflections, identity.
+Darkstar’s warning
+The mirror needs reflection, invitation, or desperation. Deny all three. Darkstar is useful but dangerous and unrepentant.
+Unresolved story threads
+Darkstar transfer or containment remains volatile. Road forces may attempt rescue, erasure, assassination, or extraction.
+Dovan/Voll second ledger may contain additional routes, victim categorizations, old chambers, and future threats.
+Hollow Wood victim tokens remain a cleanup thread requiring Kalviache, Zula, Kara, and maybe families.
+Hillfort’s route network is disabled but historically important. Some routes may remain mapped/warded rather than destroyed.
+The Unremembered Saint is the Arc 4 primary threat: erasure-as-mercy, names removed to spare pain, witnesses rewritten or emptied.
+The Ashen Choir knows Selene’s true name and uses ash-road magic, Hollow Witnesses, and road-stones.
+Liora Vale remains central: a Hollow Witness tied to Darkstar, the Saint, and the first successful disappearances.
+C. and House Tavaril remain unresolved but should not overtake Arc 4 unless chosen.
+Caerwyn Tavaril remains alive, humiliated, hostile, and likely to act through legal/social/indirect force first.
+Selene and Marcella’s relationship matters but should not make every scene about romance. Use it for trust, risk, comfort, disagreement, and callbacks.
+Arc 4 faction pressure
+Faction / force
+Goal
+Pressure events
+The Saint’s Mercy
+Erase names to spare suffering and create obedient peace.
+Convert desperate victims; mark a route node; erase a witness; open final temple road.
+Darkstar’s remnants
+Recover leverage, silence Darkstar, salvage route secrets.
+Bribe guard; attack convoy; burn evidence; trade with Saint faction.
+Hunters of Clean Names
+Destroy anyone touched by name-erasure magic, guilty or innocent.
+Track mercy camp; kill a marked innocent; force public panic; attack Daughters for contamination.
+Local authorities / temples
+Contain fallout, preserve order, avoid scandal.
+Demand statements; restrict movement; offer resources; try to take control if party seems reckless.
+Recommended arc frames
+Darkstar Convoy / Temple Transfer: move Darkstar to Saint Orveth’s Reliquary under strict precautions while the road tries to open.
+Ledger Beneath the Stove: Voll’s hidden ledger leads to another town, route node, or old estate before someone cleans it up.
+Closed-Eye Procedure: Zula, Kara, Marcella, Jasna, and Selene design a careful charm test. The first memory points toward Mara, Aurelian, or a prior intrusion.
+Hollow Wood Cleanup: Kalviache asks for help releasing the split-oak tokens and sealing or calming a deeper root.
+Mirror Wants Out: the Argent Glass stays covered, but a nearby reflection imitates Selene, Marcella, Ves, or a lost voice. The party must investigate without reckless mirror use.
+Witness Road Estate / Temple: a noble ruin, mercy camp, or forgotten witness-temple becomes a combat/investigation node with moral choices around voluntary erasure.
+Suggested beat rhythm
+Combat/action beat with objective beyond HP.
+Fallout or character scene with only the two or three most relevant Daughters speaking.
+Investigation or choice that moves toward multiple possible nodes.
+Combat/action beat that tests a different character pressure.
+Downtime/interlude checkpoint where the outline changes based on Selene’s choices, casualties, alliances, and relationship shifts.
+Things to avoid
+Forcing mirror use or patron revelations as cutscenes.
+Making C. or House Tavaril dominate unless the user chooses that route.
+Letting NPC allies solve mysteries or combats without Selene’s choices mattering.
+Turning the Daughters into archetype buttons instead of distinct people.
+Long legal proceedings that replace adventure pacing.
+Having Darkstar monologue freely; he should be controlled, dangerous, and strategic.
