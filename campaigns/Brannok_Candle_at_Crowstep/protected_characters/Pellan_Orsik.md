@@ -1,4 +1,4 @@
-﻿# Pellan Orsik
+# Pellan Orsik
 
 Name: Pellan Orsik
 

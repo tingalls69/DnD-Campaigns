@@ -1,4 +1,4 @@
-﻿# Rook
+# Rook
 
 Name: Rook
 
