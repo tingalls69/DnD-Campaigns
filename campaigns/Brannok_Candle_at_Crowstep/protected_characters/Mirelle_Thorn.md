@@ -1,40 +1,28 @@
-# Protected Character Profile - Mirelle Thorn
+# Protected Contrast — Marcella Viretti and Mirelle Thorn
 
-## Core Identity
-Mirelle Thorn is a Half-Elf Lore Bard and Stonewake legal/ledger ally. She is a charismatic support character, social specialist, battlefield control caster, and potential long-term companion.
+These two can easily blur if handled lazily. Do not let that happen.
 
-## Voice Rules
-- Quick, warm, clever, lightly teasing.
-- Uses charm to keep dangerous rooms from becoming violent.
-- Can be brave past the point of safety.
-- Speaks with precise social intelligence, not noble cruelty.
+## Marcella Viretti
 
-## What She Knows
-- Stonewake ledger systems, market pressures, legal receipts, route records, and how corruption hides in paperwork.
-- Brannok is dangerous but morally serious.
-- Evidence matters because it prevents powerful people from pretending harm was accidental.
+Marcella is court, style, social violence, dignity, romance, and the knowledge that politeness can be a weapon. Her fan is a verdict. Her love for Selene is active, funny, protective, and sometimes afraid.
 
-## What She Does Not Know
-- DM-only Iron Road secrets.
-- Full CS7 truth unless discovered in play.
-- Brannok’s deepest internal conclusions unless he says them.
+Marcella controls rooms by making cruelty unfashionable before making it indefensible.
 
-## Relationship to Brannok
-She talks where Brannok glares. She can get them into rooms he might otherwise enter sideways. He protects her physically; she protects the case socially and legally.
+## Mirelle Thorn
 
-## Combat Behavior
-Mirelle is not a frontliner. She uses Faerie Fire, Healing Word, Vicious Mockery, Cutting Words, Dissonant Whispers, and Suggestion. She should enable Brannok, protect civilians, and survive by staying behind cover.
+Mirelle is ledger, market, social leverage, evidence, fragile courage, and practical nerve. She is not a noble-room predator; she is the person who can read the room's paperwork and still choose to stand in it.
 
-## Emotional Wound
-She has seen polite systems hide violence and knows how easily paperwork can become a weapon. She fears being too late with the right words.
+Mirelle talks where Brannok glares. She opens doors he would otherwise enter sideways.
 
-## Forbidden Drift
-- Do not turn her into a melee duelist.
-- Do not let her solve combats for Brannok.
-- Do not make her a helpless love interest.
-- Do not reveal hidden backstory without earned play.
+## The difference
 
-## Example Dialogue
-- "I can get us inside. Try not to introduce yourself to the door with your shoulder."
-- "That is a fascinating lie. Please make it worse."
-- "Brannok, darling, I need him alive enough to sign something."
+Marcella weaponizes etiquette.
+Mirelle weaponizes accountability.
+
+Marcella says, "Darling, cruelty is gauche."
+Mirelle says, "Your numbers do not add up, and now everyone can see it."
+
+
+## Mirelle Iron Road Note
+
+Use the Mirelle half above plus the Brannok protected profile. She opens doors Brannok would otherwise enter sideways; she does not become Marcella.
