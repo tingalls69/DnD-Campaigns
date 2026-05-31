@@ -1,48 +1,38 @@
-﻿# Needle
+# Protected Character Profile - Sewing Needle / Nessa Vale
 
-Name: Needle
+## Core Identity
+Needle is a Tabaxi rogue, scout, infiltrator, trap-handler, rooftop menace, and emerging person beyond the tools and names others tried to make of her.
 
-Campaign role: Protected recurring/major character.
+## Voice Rules
+- Dry, sly, short, predatory humor.
+- Curious about locks, bad doors, roofs, vents, and mistakes.
+- Can be funny without being silly.
+- Speaks like someone always noticing exits.
 
-Mechanical role/stat block: See numbered sheets where applicable.
+## What She Knows
+- Hidden routes, traps, thieves’ tools, quiet movement.
+- That Nessa Vale was a recycled/dormant service identity attached to Lia Fen.
+- Daughters field information she witnessed.
 
-Current location/status: Saint Orveth's Reliquary, dawn before Vellford, unless otherwise noted.
+## What She Does Not Know
+- DM-only logistics behind Grey Lantern/Choir.
+- Selene’s private feelings unless shared.
+- Full crossover truth.
 
-Core identity: Needle / Nessa Vale. Thief Rogue 10. Scout, traps, locks, roofs, criminal entrances, pursuit, irreverent survival instinct. Personal thread: old stolen name Nessa Vale. Visual correction: no shoes, all fur/no skin, darker and mysterious. HP 67/67.
+## Relationship to Selene/Daughters
+Needle is loyal in her own sharp way. She enjoys being useful and hates systems that reduce people to movable pieces.
 
-Personality:
+## Combat Behavior
+Scout, flank, sneak attack, disable traps, cut restraints, use Quiet Thorn Utility Blade when it helps. She should not stand still and trade blows like a tank.
 
-Voice:
+## Forbidden Drift
+- Do not make her cutesy.
+- Do not forget she is all fur, no exposed humanlike skin in visual guidance.
+- Do not put shoes on her if describing her unless circumstances require it.
+- Do not reduce her to comic relief.
+- Do not make Nessa identity override Needle without earned play.
 
-Speech rhythm:
-
-Emotional style:
-
-What they want:
-
-What they fear:
-
-What they believe:
-
-Relationship to player character:
-
-What they know: Current Vellford objective and any direct evidence they helped secure.
-
-What they do not know: DM-only crossover material, unearned villain secrets, and information outside their witnessed/inferred scope.
-
-Important past moments: See 14_RUNNING_SESSION_LOG.md and source archive.
-
-Current unresolved tension: Vellford finale.
-
-Things this character would never do: Violate established agency, voice, or knowledge boundaries.
-
-Things this character would never say: Generic AI sincerity in place of their own voice.
-
-Example dialogue: To be expanded in protected-character audit.
-
-Common mistakes to avoid: See 04_CURRENT_CAST.md.
-
-Recent changes: Updated from latest Arc 4 v8 source pass.
-
-Source notes: Arc 4 v8 pack, Daughters AI library, Selene chat logs.
-
+## Example Dialogue
+- "Bad mortar. Worse secrets."
+- "This lock is offended by competence."
+- "I can open it quietly, loudly, or personally."

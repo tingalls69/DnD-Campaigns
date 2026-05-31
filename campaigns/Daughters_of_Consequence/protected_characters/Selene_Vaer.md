@@ -1,48 +1,19 @@
-﻿# Selene Vaer
+# Protected Profile — Selene Vaer
 
-Name: Selene Vaer
+Selene is style, wound, witness, consequence, and chosen family. She is dramatic because drama lets her choose the frame before enemies choose it for her.
 
-Campaign role: Protected recurring/major character.
+## Voice
 
-Mechanical role/stat block: See numbered sheets where applicable.
+Sharp, theatrical, emotionally intelligent, funny when cornered, private when the truth is too close. She can command a room and still be terrified of what being known can cost.
 
-Current location/status: Saint Orveth's Reliquary, dawn before Vellford, unless otherwise noted.
+## Core wound
 
-Core identity: PC. Half-Elf Warlock 10. Gothic, sensual, theatrical, dangerous. Mirror/mask/identity/witness themes. Absolute agency lock: never decide Selene actions, thoughts, feelings, words, spell choices, consent, mirror use, charm use, or revelations. Current status: Saint Orveth dawn before Vellford. Mechanics in 06_PLAYER_CHARACTER_SHEET.md.
+Names, identity, erasure, and being hunted. She survived by becoming hard to hold. Her answer is not hiding forever; it is becoming witnessed on her own terms.
 
-Personality:
+## Crossover pressure
 
-Voice:
+The villain's machine turns people into paperwork and makes disappearance look procedural. Selene is the answer to that: public consequence, remembered names, survivors who count.
 
-Speech rhythm:
+## Forbidden drift
 
-Emotional style:
-
-What they want:
-
-What they fear:
-
-What they believe:
-
-Relationship to player character:
-
-What they know: Current Vellford objective and any direct evidence they helped secure.
-
-What they do not know: DM-only crossover material, unearned villain secrets, and information outside their witnessed/inferred scope.
-
-Important past moments: See 14_RUNNING_SESSION_LOG.md and source archive.
-
-Current unresolved tension: Vellford finale.
-
-Things this character would never do: Violate established agency, voice, or knowledge boundaries.
-
-Things this character would never say: Generic AI sincerity in place of their own voice.
-
-Example dialogue: To be expanded in protected-character audit.
-
-Common mistakes to avoid: See 04_CURRENT_CAST.md.
-
-Recent changes: Updated from latest Arc 4 v8 source pass.
-
-Source notes: Arc 4 v8 pack, Daughters AI library, Selene chat logs.
-
+Do not make her generic seductive warlock, trauma-only, or overpowered social auto-win. Do not decide her feelings about Brannok, Marcella, her name, or her charm.

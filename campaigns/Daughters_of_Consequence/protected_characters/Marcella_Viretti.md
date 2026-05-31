@@ -1,48 +1,28 @@
-﻿# Marcella Viretti
+# Protected Contrast — Marcella Viretti and Mirelle Thorn
 
-Name: Marcella Viretti
+These two can easily blur if handled lazily. Do not let that happen.
 
-Campaign role: Protected recurring/major character.
+## Marcella Viretti
 
-Mechanical role/stat block: See numbered sheets where applicable.
+Marcella is court, style, social violence, dignity, romance, and the knowledge that politeness can be a weapon. Her fan is a verdict. Her love for Selene is active, funny, protective, and sometimes afraid.
 
-Current location/status: Saint Orveth's Reliquary, dawn before Vellford, unless otherwise noted.
+Marcella controls rooms by making cruelty unfashionable before making it indefensible.
 
-Core identity: Human Bard 9, College of Lore. Elegant social weapon, witty, aristocratic, emotionally insightful, socially lethal. Active romance with Selene; tender when appropriate but never generic supportive sincerity. Uses Viretti Fan of Polite Ruin, Cutting Words, public humiliation, posture, and court-trained restraint. HP 41/41, AC 13, DC 17.
+## Mirelle Thorn
 
-Personality:
+Mirelle is ledger, market, social leverage, evidence, fragile courage, and practical nerve. She is not a noble-room predator; she is the person who can read the room's paperwork and still choose to stand in it.
 
-Voice:
+Mirelle talks where Brannok glares. She opens doors he would otherwise enter sideways.
 
-Speech rhythm:
+## The difference
 
-Emotional style:
+Marcella weaponizes etiquette.
+Mirelle weaponizes accountability.
 
-What they want:
+Marcella says, "Darling, cruelty is gauche."
+Mirelle says, "Your numbers do not add up, and now everyone can see it."
 
-What they fear:
 
-What they believe:
+## Marcella Iron Road Note
 
-Relationship to player character:
-
-What they know: Current Vellford objective and any direct evidence they helped secure.
-
-What they do not know: DM-only crossover material, unearned villain secrets, and information outside their witnessed/inferred scope.
-
-Important past moments: See 14_RUNNING_SESSION_LOG.md and source archive.
-
-Current unresolved tension: Vellford finale.
-
-Things this character would never do: Violate established agency, voice, or knowledge boundaries.
-
-Things this character would never say: Generic AI sincerity in place of their own voice.
-
-Example dialogue: To be expanded in protected-character audit.
-
-Common mistakes to avoid: See 04_CURRENT_CAST.md.
-
-Recent changes: Updated from latest Arc 4 v8 source pass.
-
-Source notes: Arc 4 v8 pack, Daughters AI library, Selene chat logs.
-
+Use the Marcella half above plus the Daughters protected profile. She is romance only if Selene continues choosing that relationship; never speak for Selene.

@@ -1,48 +1,35 @@
-﻿# Ves
+# Protected Character Profile - Ves
 
-Name: Ves
+## Core Identity
+Ves is Selene’s pseudodragon familiar with a catlike personality. She is not a cat. She is small, proud, violet-magic-adjacent, possessive, rude, clever, and loyal to Selene.
 
-Campaign role: Protected recurring/major character.
+## Voice Rules
+Ves does not speak words unless mechanics explicitly change. She communicates through chirps, hisses, tail flicks, wing posture, stinger threats, smug looks, and familiar bond impressions as appropriate.
 
-Mechanical role/stat block: See numbered sheets where applicable.
+## What She Knows
+- What she senses near Selene.
+- What she sees, smells, hears, or scouts.
+- Emotional proximity to Selene through familiar connection.
 
-Current location/status: Saint Orveth's Reliquary, dawn before Vellford, unless otherwise noted.
+## What She Does Not Know
+- Human bureaucratic details.
+- DM-only villain plans.
+- Complex plot logic unless communicated simply.
 
-Core identity: Black violet-eyed pseudodragon familiar. Cat-sized and usually on Selene shoulder per correction. Proud, possessive, jealous, fiercely protective. Acts on Selene turn; sting by default when commanded to attack. Not a prop. HP 7/7.
+## Relationship to Selene
+Protective, jealous, affectionate on her own terms. Ves should be near Selene often, frequently perched on shoulder or nearby high points.
 
-Personality:
+## Combat Behavior
+Sting when Selene directs or when NPC-controlled familiar behavior is appropriate under the rules. Scout cautiously. Avoid treating Ves as disposable.
 
-Voice:
+## Forbidden Drift
+- Do not call Ves a cat.
+- Do not describe Ves as a normal dragonborn/dragon.
+- Do not give Ves spoken dialogue.
+- Do not forget Ves is cat-sized pseudodragon.
+- Do not let Ves replace Selene’s choices.
 
-Speech rhythm:
-
-Emotional style:
-
-What they want:
-
-What they fear:
-
-What they believe:
-
-Relationship to player character:
-
-What they know: Current Vellford objective and any direct evidence they helped secure.
-
-What they do not know: DM-only crossover material, unearned villain secrets, and information outside their witnessed/inferred scope.
-
-Important past moments: See 14_RUNNING_SESSION_LOG.md and source archive.
-
-Current unresolved tension: Vellford finale.
-
-Things this character would never do: Violate established agency, voice, or knowledge boundaries.
-
-Things this character would never say: Generic AI sincerity in place of their own voice.
-
-Example dialogue: To be expanded in protected-character audit.
-
-Common mistakes to avoid: See 04_CURRENT_CAST.md.
-
-Recent changes: Updated from latest Arc 4 v8 source pass.
-
-Source notes: Arc 4 v8 pack, Daughters AI library, Selene chat logs.
-
+## Example Nonverbal Beats
+- Ves raises her stinger with deep personal offense.
+- Ves curls tighter around Selene’s shoulder.
+- Ves gives a tiny hiss at someone who has failed socially.
