@@ -1,59 +1,28 @@
-# DnD Campaigns Continuity Repository
+# DnD Campaigns - AI Dungeon Master Library
 
-This repository stores live continuity material for solo D&D 5e campaigns.
+This repository is organized for fresh AI Dungeon Masters, not long human browsing.
 
-## Active Campaign Libraries
+## Live-Play Read Order
 
-- `campaigns/Brannok_Candle_at_Crowstep/`
-- `campaigns/Daughters_of_Consequence/`
+1. `00_SHARED/CAMPAIGN_CONSTITUTION.md`
+2. `00_SHARED/DM_STYLE_GUIDE.md`
+3. `00_SHARED/DICE_AND_MECHANICS.md`
+4. `03_THE_LAST_LANTERN/CURRENT_STATE.md`
+5. `03_THE_LAST_LANTERN/PROTAGONISTS.md`
+6. `03_THE_LAST_LANTERN/CHARACTER_SHEETS.md`
+7. `03_THE_LAST_LANTERN/RELATIONSHIPS.md`
+8. `03_THE_LAST_LANTERN/COMPANIONS.md`
+9. `03_THE_LAST_LANTERN/UNRESOLVED_THREADS.md`
+10. `03_THE_LAST_LANTERN/DM_SECRETS.md` only when planning hidden consequences or villain action.
 
-Each campaign folder is designed to help a fresh AI Dungeon Master continue play without losing character voice, mechanical state, canon facts, or player preferences.
+## Active Campaign
 
-## Source Priority
+`03_THE_LAST_LANTERN/` is the only active campaign folder.
 
-When files conflict, use this order:
+## Completed Campaigns
 
-1. Latest direct player instruction.
-2. Current session packet.
-3. Current state files.
-4. Character sheets and stat blocks.
-5. Canon locked facts.
-6. Protected character profiles.
-7. Running/session logs.
-8. Future planning documents.
-9. Archived/raw source material.
+Brannok's solo campaign and Selene's Daughters of Consequence campaign are completed. Their detailed libraries are archived under `90_ARCHIVE/` and should be used only for deep callbacks, audits, or disputed history.
 
-## Player Agency
+## Core Rule
 
-The player controls the protagonists. Never decide their actions, feelings, dialogue, choices, rolls, or internal conclusions.
-
-Current protagonists:
-
-- Brannok Ashhelm
-- Selene Vaer
-
-## DM-Only Material
-
-Future plans, hidden villain notes, crossover planning, and unrevealed backstory must remain DM-only. Do not treat future plans as player-known truth.
-
-## Protected Characters
-
-Protected character files exist to prevent drift. Read them before portraying major recurring characters.
-
-A protected profile should define:
-
-- voice
-- emotional wounds
-- relationship to protagonist
-- relationship to party
-- what the character knows
-- what they do not know
-- combat behavior
-- forbidden drift
-- example dialogue
-
-## Session Logs
-
-Session logs should be append-only.
-
-Do not rewrite old session logs to make continuity neater. If a correction is needed, add a new dated correction entry.
+Current truth lives in the active folder. Archive material preserves canon history but does not override active files unless the user explicitly corrects the campaign.
