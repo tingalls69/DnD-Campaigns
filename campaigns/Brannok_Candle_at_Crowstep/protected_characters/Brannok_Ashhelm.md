@@ -1,40 +1,53 @@
-﻿# Brannok Ashhelm
+# Protected Character Profile - Brannok Ashhelm
 
-Name: Brannok Ashhelm
+## Core Identity
+Brannok Ashhelm is a Mountain Dwarf Fighter/Barbarian, a hammer-and-shield road protector, and the protagonist of The Candle at Crowstep. He is blunt, practical, morally serious, funny in a rough way, and not stupid.
 
-Campaign role: Player character and protagonist.
+## Player Agency Boundary
+Brannok is player-controlled. Never decide his actions, dialogue, thoughts, feelings, emotional conclusions, rolls, level choices, or moral choices.
 
-Mechanical role/stat block: Mountain Dwarf Fighter 5 Champion / Barbarian 2, Level 7, HP 75/75, AC 18.
+## Voice Rules
+- Plain-spoken, dwarven, direct.
+- Uses words like rats, weasels, nails, honest folk.
+- Humor is blunt, physical, often hammer/nail-based.
+- He can be rude without being cruel.
+- He is perceptive about exploitation, fear, labor, danger, and fake authority.
+- Avoid making him a dumb brute.
 
-Current location/status: East Ridge Survey Store, Stonewake, after the survey-store fight.
+## Core Wound
+Brannok saw signs that mine supports were unsafe and that records were falsified. He waited too long to stand up to those above him. People died. His guilt is: "I saw the signs. I knew. I waited. People died. I will not wait again."
 
-Core identity: A blunt, practical dwarf whose mine-collapse guilt makes him violently intolerant of fake safety, bad paperwork, and polite people hiding danger.
+## What He Knows
+- Crowstep’s road-safety failure was practical sabotage, not mystical debt.
+- Stonewake corruption involved stolen ward-iron, fake repair records, false road safety, and Control Node Seven.
+- CS7 and O. Thresh point beyond Stonewake.
+- Road wards protect ordinary people; fake safety kills.
 
-Personality: Practical, perceptive, morally serious, rough, protective, stubborn. Wisdom-driven rather than book-smart.
+## What He Does Not Know
+- Full Iron Road crossover truth.
+- Selene/Daughters plot details unless told in play.
+- Any DM-only future villain planning.
 
-Voice: Simple language, concrete action, hammer/nail humor, blunt suspicion of polished authority.
+## Relationships
+- Rook: soot-black crow companion, rude and loyal, cannot speak words.
+- Nera Cale: food, blunt wisdom, home-base pressure.
+- Voss: lawful field ally, practical respect.
+- Mirelle: ledger/social ally; she talks where he glares.
+- Kaelis: protected witness and combat-capable ally.
+- Pellan/Tovin: practical road-ward craft allies.
 
-Speech rhythm: Short sentences. Work-site metaphors. Humor used to dodge grief.
+## Combat Behavior
+Brannok fights directly, protects civilians/allies, and uses rage as disciplined protective fury. He prefers nonlethal treatment for lesser weasels when possible, but nails get hammered.
 
-Emotional style: Protective anger, guilt under discipline, action before confession.
+## Forbidden Drift
+- Do not make him stupid.
+- Do not make him bloodthirsty for its own sake.
+- Do not make him ignore civilians.
+- Do not make him speak in polished noble language.
+- Do not make NPCs solve his core story for him.
 
-What they want: Stop the road network from hurting people and never wait too long again.
-
-What they fear: Seeing signs, hesitating, and letting people die while authority pretends all is safe.
-
-What they believe: Bad supports, bad paperwork, and fake safety kill people.
-
-Relationship to player character: Player character.
-
-Things this character would never do: Casually accept official reassurance when evidence says danger; become polished or abstract for long.
-
-Things this character would never say: Elegant therapy-speak about his trauma.
-
-Example dialogue: "Tell me which bit is lying and which bit needs breaking."
-
-Common mistakes to avoid: Dumb brute, murder-hobo, polished detective, mindless rage.
-
-Recent changes: Current source places him after the survey-store fight in the final Stonewake stretch.
-
-Source notes: v29 handoff, Brannok full history, chat logs.
-
+## Example Dialogue
+- "Aye. Filthy no good fuckin rat."
+- "Hammers ain't meant for wood."
+- "If I stopped, you won."
+- "No more fake safe."

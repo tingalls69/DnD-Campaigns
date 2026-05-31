@@ -1,59 +1,53 @@
-﻿# Current State
+# Current State
 
 ## Current Arc
 
-Final local stretch of The Candle at Crowstep / Stonewake arc. The campaign began as grounded road-ward corruption and has opened into higher fantasy: false ward-gates, road-hungry beasts, ward-binders, bell-locks, old road-iron, and classed NPC allies.
+Stonewake local arc aftermath. Control Node Seven has been destroyed; CS7 / O. Thresh points beyond Stonewake toward a larger route-control system.
 
 ## Current Date/Time
 
-Daytime. Exact date not tracked in the source packet.
+After the Control Node Seven finale. Exact calendar date not tracked.
 
 ## Current Location And Travel Situation
 
-Stonewake, East Ridge Survey Store. The current scene is stationary and controlled after combat.
+Stonewake aftermath / local closure. Brannok has not yet begun the next CS7 journey unless the player chooses it.
 
 ## Character Status
 
-Brannok Ashhelm is Level 7, Mountain Dwarf Fighter 5 Champion / Barbarian 2. XP 31,950 / 34,000. HP 75/75. AC 18. Rage 2/2. Action Surge and Second Wind available.
+Brannok Ashhelm remains the protagonist. Latest full-history source notes HP 66/75 after the Control Node Seven fight; verify all HP/resources before live combat.
 
 ## Party/Allies Status
 
-The active Stonewake field network includes Voss, Mirelle, Kaelis, Tovin Brack, Pellan Orsik, Rook, and supervised Garrow. Nera remains the Carter's Rest home-base ally.
+Voss, Mirelle, Nera, Pellan, Tovin, Kaelis, Garrow, and Rook remain the key local continuity characters. Use `04_CURRENT_CAST.md` and protected profiles before portrayal.
 
 ## Recent Consequences
 
-- Ward Hall hearing exposed timing issues with Halven, the red ledger, and Brannok's route.
-- Old bridge ward-gate fight revealed false ward-iron, ward-hounds, and a Glimmerjaw.
-- Red Willow Crossing exposed a second-layer sabotage plan hidden in medicine crates.
-- South Toll Cut revealed bell-lock / chain-heart mechanics and a half-breached creature.
-- Rell Garrow was captured/coerced into helping and points toward larger road-routing marks.
-- The East Ridge Survey Store cache has now been exposed.
+- Stonewake road-ward corruption chain exposed.
+- Control Node Seven destroyed.
+- Major prisoners in Ward custody.
+- CS7 / O. Thresh / iron transfer authorization recovered as unresolved forward evidence.
 
 ## Open Hooks
 
-- Identify and break the final local road-control node.
-- Resolve the role of Halven, Marra Valech, Carrow, and the Road-mage Binder.
-- Decide what to do with Garrow's old-road knowledge.
-- Finish Stonewake cleanly before crossover.
+- CS7 old Continental Survey infrastructure.
+- O. Thresh, Commissioner (Ret.).
+- Another node or Survey Station four to five days northeast, per source history.
+- Brannok's local closure with Stonewake allies.
 
 ## Immediate Next Scenes
 
-1. Secure survey store evidence.
-2. Extract one actionable connection from wedges/route material.
-3. Move toward the final road-control confrontation.
-4. Close Stonewake consequences and rewards.
+1. Close Stonewake custody/evidence/recovery.
+2. Resolve ally reactions and immediate rewards/rest.
+3. Let Brannok choose when and how to pursue CS7.
 
 ## Unresolved Dangers
 
-- Remaining local road-control node.
-- Road-mage Binder / road-controller.
-- False ward-iron and compromised route repairs.
-- Higher-fantasy road-ward threats becoming more visible.
+The larger route-control system remains active beyond Stonewake.
 
 ## Rewards, XP, Money, Inventory Changes Pending
 
-Brannok's current coin is 0 gp, 4 sp, 1 cp. Evidence and physical materials recovered from the survey store need final inventory decisions. XP is 31,950 / 34,000.
+Needs reconciliation after the Control Node Seven fight.
 
 ## Rest/Level-Up State
 
-No rest pending in the current scene. Brannok is close to Level 8. Fighter 6 is noted as a strong build choice, but the level-up direction remains open.
+Needs reconciliation. Do not assume full resources until checked.

@@ -1,45 +1,31 @@
-﻿# Active Plot Threads
+# Active Plot Threads
 
-## Final Stonewake Road-Control Node
+## Stonewake Local Closure
 
-Status: Active, immediate.
+Status: Immediate.
 
-Player-facing facts: Survey store cache, ward-iron wedges, route material, bell-lock history, and false ward repairs all point to a remaining local road-control node.
+Player-facing facts: Control Node Seven is destroyed and the local corruption chain is exposed. Prisoners and evidence need clean handling.
 
-DM-only context: Use this to drive the finale, not to stall with more clue loops.
+Next likely pressure: Local aftermath, public truth, ally closure, and Brannok's recovery.
 
-Next likely pressure: The node begins moving, breaking, or covering evidence unless Brannok acts.
+Do not rush: Brannok's emotional/local payoff.
 
-NPCs involved: Brannok, Voss, Mirelle, Tovin, Pellan, Kaelis, Garrow, Road-mage Binder.
+## CS7 / O. Thresh / Iron Transfer
 
-Clues already found: Red ledger, route delays, old bridge false bracket, Red Willow medicine-crate sabotage, South Toll Cut bell-lock/chain-heart, survey-store wedges.
+Status: Active forward thread, not current player-facing full truth.
 
-Consequences if ignored: More false safety, compromised roads, and people harmed by official-looking lies.
+Known evidence: `? | CS7 | RW-ROUTING | IRON TRANSFER AUTHORIZED ? O. THRESH, COMMISSIONER (RET.)`
 
-Do not rush: The emotional payoff of Brannok refusing to wait again.
+Player-facing facts: CS7 is an old Continental Survey accounting code. The iron was routing through Stonewake toward somewhere else. A larger route-control system exists beyond the local arc.
 
-## Halven / Marra Valech / Carrow Paper Trail
+NPCs involved: Brannok, Mirelle, Voss, Pellan, Tovin, Garrow depending who has been told or saw the evidence.
 
-Status: Active background pressure.
+Consequences if ignored: The larger system continues beyond Stonewake.
 
-Player-facing facts: Claims were delayed/distorted. Certified route and audit work made bad repairs look official. Ledger and routing marks matter.
-
-Next likely pressure: Mirelle can identify one actionable link from survey-store papers.
-
-Do not rush: Avoid dumping every name at once.
-
-## Garrow's Old-Road Knowledge
-
-Status: Active but dangerous.
-
-Player-facing facts: Garrow understands bell-locks and old road closures.
-
-NPCs involved: Garrow, Brannok, Voss, Tovin.
-
-Consequences if mishandled: He misleads, withholds, or becomes a liability.
+Do not rush: Do not force crossover before Brannok chooses his next step.
 
 ## Future Crossover: The Iron Road
 
 Status: Future-plan only.
 
-Do not reveal directly. Do not make it current truth until Stonewake has a satisfying local finale.
+Do not reveal directly. Do not make it current truth until both solo campaign finales are ready.

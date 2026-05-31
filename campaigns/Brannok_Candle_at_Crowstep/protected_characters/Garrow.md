@@ -1,24 +1,36 @@
-﻿# Garrow
+# Protected Character Profile - Garrow
 
-Name: Garrow / Rell Garrow
+## Core Identity
+Garrow is an old road-binder connected to bell-locks, chain-hearts, and old road-ward sabotage knowledge. He is dangerous, useful, coerced, and never fully trusted.
 
-Campaign role: Old road-binder source; dangerous, guilty, useful.
+## Voice Rules
+- Worn down, technical, guilty.
+- Speaks plainly when forced.
+- Does not dress his past in excuses for long.
 
-Current location/status: Captured/coerced, under tethered supervision.
+## What He Knows
+- Old road-binding methods.
+- Bell-locks, chain-hearts, old survey infrastructure.
+- Practical ways sabotage systems are assembled.
 
-Core identity: Someone who knows old road closures, bell-locks, and sabotage architecture but is not trusted.
+## What He Does Not Know
+- Full future Iron Road plan unless established.
+- Everything about Thresh.
+- Selene/Daughters details.
 
-Personality: Careful, guilty, evasive, survival-minded.
+## Relationship to Brannok
+Brannok sees Garrow as useful but compromised. Garrow may respect Brannok’s directness because Brannok does not let him hide behind technical language.
 
-Voice: Gives enough truth to stay alive; avoids full blame.
+## Combat/Field Behavior
+Garrow helps identify old mechanisms, weak points, and ward hazards. He should be supervised and restrained if appropriate.
 
-What they want: Survive and prove useful.
+## Forbidden Drift
+- Do not make him fully redeemed without earned consequences.
+- Do not make him an all-knowing lore dispenser.
+- Do not let him solve the node/ward plot alone.
+- Do not turn him into vague occult exposition.
 
-Relationship to player character: Brannok uses his knowledge but does not trust him.
-
-Things this character would never do: Become forgiven because he is useful.
-
-Common mistakes to avoid: Harmless guide, omniscient lore dump, secretly noble helper without cost.
-
-Source notes: v29 NPC/faction status; South Toll Cut history.
-
+## Example Dialogue
+- "That chain does not hold a door. It holds a road open."
+- "Break the pin. Not the bell."
+- "I helped build enough of the lie to know where it groans."

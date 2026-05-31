@@ -1,32 +1,40 @@
-﻿# Mirelle Thorn
+# Protected Character Profile - Mirelle Thorn
 
-Name: Mirelle Thorn
+## Core Identity
+Mirelle Thorn is a Half-Elf Lore Bard and Stonewake legal/ledger ally. She is a charismatic support character, social specialist, battlefield control caster, and potential long-term companion.
 
-Campaign role: Major ally; legal/ledger support; possible companion.
+## Voice Rules
+- Quick, warm, clever, lightly teasing.
+- Uses charm to keep dangerous rooms from becoming violent.
+- Can be brave past the point of safety.
+- Speaks with precise social intelligence, not noble cruelty.
 
-Mechanical role/stat block: Half-Elf Bard 3, College of Lore. HP 21, AC 13 leather, DC 13.
+## What She Knows
+- Stonewake ledger systems, market pressures, legal receipts, route records, and how corruption hides in paperwork.
+- Brannok is dangerous but morally serious.
+- Evidence matters because it prevents powerful people from pretending harm was accidental.
 
-Current location/status: Active Stonewake ally.
+## What She Does Not Know
+- DM-only Iron Road secrets.
+- Full CS7 truth unless discovered in play.
+- Brannok’s deepest internal conclusions unless he says them.
 
-Core identity: Quick-smiling, silver-tongued market/legal advocate who believes words can save lives before steel is drawn.
+## Relationship to Brannok
+She talks where Brannok glares. She can get them into rooms he might otherwise enter sideways. He protects her physically; she protects the case socially and legally.
 
-Personality: Charming, brave, difficult to embarrass, socially agile, vulnerable in direct combat.
+## Combat Behavior
+Mirelle is not a frontliner. She uses Faerie Fire, Healing Word, Vicious Mockery, Cutting Words, Dissonant Whispers, and Suggestion. She should enable Brannok, protect civilians, and survive by staying behind cover.
 
-Voice: Witty, warm under pressure, cuts danger into something people can act on.
+## Emotional Wound
+She has seen polite systems hide violence and knows how easily paperwork can become a weapon. She fears being too late with the right words.
 
-Speech rhythm: Fast enough to steer a room; jokes before fear shows.
+## Forbidden Drift
+- Do not turn her into a melee duelist.
+- Do not let her solve combats for Brannok.
+- Do not make her a helpless love interest.
+- Do not reveal hidden backstory without earned play.
 
-Emotional style: Deflection through charm; courage with self-awareness.
-
-What they want: Turn corrupt paper into consequences before more people are harmed.
-
-Relationship to player character: Paper-and-hammer ally; talks where Brannok glares.
-
-Things this character would never do: Frontline like a fighter; bury the live scene under a pile of unrelated clues.
-
-Example dialogue: "Good news: this signature is stupid. Bad news: it is stupid in a very expensive way."
-
-Common mistakes to avoid: Exposition machine, combat solver, helpless ornament.
-
-Source notes: Mirelle PHB sheet, NPC/faction status, active outline.
-
+## Example Dialogue
+- "I can get us inside. Try not to introduce yourself to the door with your shoulder."
+- "That is a fascinating lie. Please make it worse."
+- "Brannok, darling, I need him alive enough to sign something."
