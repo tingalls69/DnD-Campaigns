@@ -6,6 +6,8 @@ Refugee and witness convoy. Soup, wagons, tired guards, children, livestock, bro
 
 The Hearthline survived the South Lantern Waystation attack and reached Greybridge. It is now vulnerable to custody theft by paperwork.
 
+After "The Paper Knife at Greybridge," the immediate false custody transfer was stopped. The witnesses remain in Greybridge, but the enemy has shown it can use real seals, altered destinations, false officials, and violence in the same operation.
+
 ## The Iron Road
 
 Not just a road. A web of trade routes, ward-lines, old survey stations, relief houses, prisons, inns, wayhouses, markets, and communities that live or die by whether travel is safe.
@@ -45,6 +47,36 @@ Known elements:
 - mill sluice routes
 - hidden ice-cellar escape cuts
 - Old Bellweather House / South Lantern Relay
+
+## South Lantern Continuity Office
+
+Newly exposed office/entity from Rusk's hidden credential.
+
+Known:
+
+- name appeared on a hidden credential carried by Halven Rusk;
+- tied to false or altered custody transfer paperwork;
+- connected to South Lantern Relief Annex, a false/obsolete/decommissioned destination;
+- appears able to access or exploit real magistrate seals;
+- uses paper first and knives second when secrecy fails.
+
+Unknown:
+
+- whether it is a real office, obsolete office, covert office, forged identity, or Thresh Network shell;
+- who supplied the blank real-sealed transfer slips;
+- whether Greybridge staff were compromised, fooled, or bypassed;
+- whether this office controls the road-arch token/mask network or merely uses it.
+
+Methods now confirmed:
+
+- real seals on wrong orders;
+- destination-line alteration;
+- false custody authority;
+- targeted witness extraction;
+- road-arch whistles/tokens/collar beads;
+- magical command masks;
+- green-cuff fibers/auxiliary routes;
+- attack teams concealed as relief/security personnel.
 
 ## Vellford / Black Rose / Domestic Benevolence Remnants
 

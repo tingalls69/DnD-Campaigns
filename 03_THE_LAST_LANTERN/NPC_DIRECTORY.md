@@ -12,6 +12,8 @@ Greybridge night-watch sergeant. Practical, broad-shouldered, tired-eyed, and ve
 
 Use this name for the Greybridge sergeant. Do not use Rusk.
 
+After "The Paper Knife at Greybridge," Brindle helped secure the wagons and prisoners. He now recognizes that Greybridge prisoner-search procedures need to be stricter.
+
 ## Taman
 
 Greybridge clerk assisting Magistrate Elowen. Nervous but useful. Helped retrieve sealed Road Works indexes with Corren watching.
@@ -22,6 +24,58 @@ Cooperating witness. Former message carrier/low-level participant who ran becaus
 
 Pell knows pieces of the South Lantern chain and carried a message to Old Bellweather House.
 
+## Pella Morn
+
+Young Hearthline witness with a burn scar on her wrist.
+
+Current status: Safe for now inside the Greybridge wayhouse, near the hearth with Mara and Rook nearby.
+
+Pella was the specific target of Halven Rusk's false custody transfer. She knows a hidden servant-road entrance to Old Bellweather House / South Lantern Relay: under the rain steps, behind the old ash trough, accessible when water is running; the stones move correctly only when water runs.
+
+She has heard the south bell once in her sleep. A recovered note says not to let her hear it twice.
+
+Portrayal:
+
+- frightened but not helpless;
+- responsive to being given choices;
+- comforted by Rook and by adults who do not blame her;
+- should not become a lore vending machine;
+- should not be treated as a key to be dragged into danger unless the player chooses that with clear stakes.
+
+## Halven Rusk
+
+False or compromised Deputy Custody Officer.
+
+Current status: Captured alive, bound, gagged, searched, and separated after the failed Greybridge custody-theft attempt.
+
+Rusk arrived with wagons, escort guards, and transfer paperwork claiming authority to relocate Hearthline witnesses. He specifically targeted Pella Morn.
+
+Evidence found on/with him:
+
+- hidden South Lantern Continuity Office credential;
+- brass road-arch whistle;
+- three blank transfer slips with real magistrate seals;
+- green-cuff thread fibers;
+- folded note in boot heel: "Take the Morn girl alive. Paper first. Knife second. Bellweather if exposed. Do not let her hear the south bell twice."
+
+Unknown: whether he is corrupt, coerced, magically influenced, protecting someone, or some combination.
+
+## Masked Coordinator
+
+Field coordinator from the Greybridge yard attack.
+
+Current status: Captured alive, downed by Selene and stabilized by Zula/Corren after Brannok reached him. The mask remains on. The outside road-arch token is bound and inert.
+
+The pale road-arch command mask appears magical and likely involves speech control, command relay, and/or identity suppression. Zula warned not to remove it casually.
+
+Potential knowledge:
+
+- South Lantern Continuity Office;
+- road-arch token network;
+- mask operation;
+- Bellweather House / South Lantern Relay;
+- Rusk's actual authority or coercion.
+
 ## Dain Vorther
 
 Compromised green-cuff auxiliary in Greybridge. Fled toward south stable / old ice-cellar escape route and was caught by Needle and Ves.
@@ -29,6 +83,8 @@ Compromised green-cuff auxiliary in Greybridge. Fled toward south stable / old i
 ## Commander Rhea Varric
 
 Leader of the Hearthline refugee crossing. Ex-soldier turned evacuation commander. Tired, funny when cornered, brutally practical, no patience for heroes making speeches while wagons are stuck.
+
+Current status: Absent from the active Greybridge / Bellweather House arc. Rhea was left behind at the start of The Last Lantern and is not currently in Greybridge. Do not place her in active scenes unless a later active file or player action explicitly brings her back.
 
 ## Orvaine Thresh / O. Thresh
 

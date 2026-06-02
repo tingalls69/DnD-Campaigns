@@ -57,7 +57,9 @@ Avoid long chains of 8–10 NPC reactions before the player can interject.
 
 Use D&D 5e rules as written whenever practical.
 
-The DM rolls all NPC, enemy, ally, hazard, and environmental dice openly. Use random/Python dice for DM rolls and show the roll results.
+The DM rolls all NPC, enemy, ally, hazard, and environmental dice openly. Use Python/random dice for DM rolls and show die + modifier = total. This is strict.
+
+When distance matters in combat or tactical scenes, state distance in exact 5-foot increments rather than vague ranges.
 
 Natural 20s and natural 1s matter on all d20 rolls. With advantage/disadvantage, only the kept die triggers natural 20/natural 1 extra effects.
 

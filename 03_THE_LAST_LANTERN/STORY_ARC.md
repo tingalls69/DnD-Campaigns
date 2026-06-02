@@ -1,4 +1,4 @@
-# The Last Lantern — Revised Story Arc
+# The Last Lantern - Revised Story Arc
 
 ## Core Thesis
 
@@ -26,41 +26,46 @@ She believes roads do not need light; they need obedience. She believes frighten
 
 She should appear or speak soon.
 
-## Act I — Greybridge: The Town That Must Choose
+## Act I - Greybridge: The Town That Must Choose
 
-The party has defeated the physical attack, but now the enemy shifts tactics. The danger becomes official pressure.
+Status: mostly completed, with interrogation and planning fallout still active.
 
-Core objective:
+The party defeated the physical attack and then stopped the enemy's official-pressure follow-up. The danger became custody theft by paperwork, backed by knives when exposed.
 
-Keep the Hearthline witnesses in Greybridge long enough to prove transfer orders are false, secure the records, identify compromised officials, and prevent custody theft.
+Completed core objective:
 
-Key beats:
+- Keep the Hearthline witnesses in Greybridge.
+- Prove the transfer order was false/altered.
+- Secure the records.
+- Capture Halven Rusk and the masked coordinator alive.
+- Prevent Pella Morn from being taken.
+- Gain a clear lead to Old Bellweather House / South Lantern Relay.
 
-1. A courier or official message arrives ordering the Hearthline witnesses transferred to a “safer” holding location.
-2. The order appears legitimate but is tied to old Road Works routing authority.
-3. Mirelle and Elowen analyze seals, phrasing, route authority, and contradictions.
-4. Marcella manages public panic and keeps witnesses calm.
-5. Brannok learns that sitting in the room as visible protection can matter as much as swinging a hammer.
-6. Selene decides how much fear/charm pressure to use while preserving the agency of witnesses.
-7. Corren catches runners, guards prisoners, handles ropes/wagons/stables, and assists ordinary guards.
-8. Rook keeps children calm.
-9. Dain Vorther and the east-road captain confirm Old Bellweather House / South Lantern Relay.
-10. The party earns a clear reason to go to Bellweather House.
+Current Greybridge fallout:
 
-Act I should be short and focused. Paperwork is a weapon, not the whole adventure.
+- interrogate Rusk;
+- interrogate or examine the masked coordinator;
+- identify the South Lantern Continuity Office;
+- understand the command mask and road-arch token network;
+- decide how much to ask of Pella;
+- plan the Bellweather approach;
+- secure Greybridge's witnesses and prisoners before leaving.
 
-## Act II — Road to Bellweather House
+Act I should not linger into fictional legal debate. Paperwork was a weapon; now use the evidence to drive a rescue-forward Bellweather mission.
+
+## Act II - Road To Bellweather House
 
 Transition from Greybridge to the adventure site while showing the enemy is watching.
 
 Include one concrete road hazard or tactical obstacle:
 
-- broken bridge
-- false ward marker
-- trapped lantern post
-- road collapse
-- cleanup-team ambush
-- frightened local guide
+- broken bridge;
+- false ward marker;
+- trapped lantern post;
+- road collapse;
+- cleanup-team ambush;
+- frightened local guide;
+- Pella's hidden service route beneath rain steps and ash trough.
 
 Include one emotional travel beat:
 
@@ -71,12 +76,12 @@ Include one emotional travel beat:
 
 Show South Lantern's attention:
 
-- crossed-flame mark
-- cane tap through a relay bell
-- warning for “the dwarf in the gray cap”
-- warning for “the woman with the closed eye”
+- crossed-flame mark;
+- cane tap through a relay bell;
+- warning for "the dwarf in the gray cap";
+- warning for "the woman with the closed eye."
 
-## Act III — Bellweather House: The Relay That Still Rings
+## Act III - Bellweather House: The Relay That Still Rings
 
 Bellweather House is the first major dungeon/adventure site.
 
@@ -88,17 +93,19 @@ Rescue the trapped people, recover South Lantern's field ledger, and prevent the
 
 Mandatory elements:
 
-- burned wing from old structural fire
-- sealed Road Works archive room
-- ward relay chamber
-- bell tower or signal chamber
-- smuggler route / old service tunnel
-- false safety markers
-- unlit lantern symbol
-- field ledger or torn ledger pages
-- tactical fight near the bell/relay
-- hazard where breaking the wrong thing destroys evidence or harms captives
-- a situation where the party must split responsibilities
+- burned wing from old structural fire;
+- sealed Road Works archive room;
+- ward relay chamber;
+- bell tower or signal chamber;
+- hidden servant-road entrance beneath the rain steps and behind the old ash trough;
+- false safety markers;
+- unlit lantern symbol;
+- field ledger or torn ledger pages;
+- tactical fight near the bell/relay;
+- hazard where breaking the wrong thing destroys evidence or harms captives;
+- a situation where the party must split responsibilities.
+
+Pella should not be treated as a necessary key or dragged into danger by default. Her knowledge can guide planning, mapping, or entry, but whether she goes near Bellweather must be a player-facing choice with clear risk. The south bell second-hearing threat should make her involvement dangerous, not automatic.
 
 ## Companion Spotlight Requirements
 
@@ -142,16 +149,16 @@ Give him a small morale moment with frightened children, a young courier, or tra
 
 Let Ves scout, sting, warn Selene, and react strongly to threshold magic.
 
-## Act IV — South Lantern Contact
+## Act IV - South Lantern Contact
 
 South Lantern should not wait until the final boss to appear.
 
 Use one of these:
 
-1. Relay Bell Scene — South Lantern speaks through the bell.
-2. Parley Scene — South Lantern offers to trade hostages for records.
-3. Abandonment Scene — South Lantern abandons or punishes her own team.
-4. Cane Scene — the black cane with silver unlit-lantern cap appears before she fully enters.
+1. Relay Bell Scene - South Lantern speaks through the bell.
+2. Parley Scene - South Lantern offers to trade hostages for records.
+3. Abandonment Scene - South Lantern abandons or punishes her own team.
+4. Cane Scene - the black cane with silver unlit-lantern cap appears before she fully enters.
 
 She should recognize:
 
@@ -159,7 +166,7 @@ She should recognize:
 - Selene understands thresholds and choices.
 - The Last Lantern is dangerous because it gives people somewhere to stand.
 
-## Act V — Public Consequence / Exposing the Road
+## Act V - Public Consequence / Exposing The Road
 
 After Bellweather House, the party should have enough evidence to force a public or institutional choice.
 

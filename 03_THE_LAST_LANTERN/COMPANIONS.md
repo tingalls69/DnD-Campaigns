@@ -101,3 +101,5 @@ Mara's style: concise, physical, emotionally minimal but deeply protective. “G
 ## Support-Wing Rule
 
 In large scenes, do not run everyone as full initiative. Assign support objectives such as evacuate children, hold wagons, stabilize wards, protect evidence, block exits, or counter a secondary threat.
+
+In crowded social-pressure scenes, give companions visible jobs instead of full dialogue turns. Suggested Greybridge lanes: Mirelle protects records and catches contradictions; Corren watches prisoners, doors, wagons, and runners; Mara holds civilians and chokepoints; Marcella manages panic and applies Bard support; Zula studies seals, wardcraft, and magical marks; Needle / Nessa scouts hidden movement and escape routes; Rook supports children and morale; Ves acts on Selene's initiative and follows Selene's commands.

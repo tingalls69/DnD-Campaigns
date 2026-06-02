@@ -8,8 +8,8 @@ Mountain dwarf Champion Fighter 8. Hammer-and-shield protector. Practical, blunt
 
 - Class: Fighter 8
 - Subclass: Champion
-- XP: 46,900 / 48,000
-- HP: 84/84
+- XP: 47,650 / 48,000
+- HP: 58/84 before pending hit dice healing after the Greybridge short rest
 - AC: 18
 - STR 20, DEX 14, CON 18, INT 12, WIS 15, CHA 8
 - Fighting Style: Dueling
@@ -65,9 +65,9 @@ Archfey Warlock 10, Pact of the Chain. Dramatic, wounded, sharp, funny, dangerou
 - Class: Warlock 10
 - Subclass: Archfey
 - Pact: Pact of the Chain
-- XP: 77,750 / 85,000
+- XP: 78,500 / 85,000
 - HP: 75/75
-- Pact slots: 2/2 after long rest
+- Pact slots: 2/2 after short rest
 - Pact slots are 5th-level
 - Spell save DC: 17
 - Spell attack: +9

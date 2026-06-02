@@ -12,9 +12,10 @@
 
 ## DM Dice
 
-- NPC, enemy, ally, and environment rolls must be shown as die + modifier = total.
+- NPC, enemy, ally, hazard, and environment rolls must be rolled openly with Python/random dice and shown as die + modifier = total.
 - Use attacks, saves, ability checks, contests, objective clocks, and clear 5e actions.
 - Avoid vague non-RAW combat rolls.
+- When distance matters in combat or tactical scenes, state distance in exact 5-foot increments.
 
 ## Sheet Checks
 

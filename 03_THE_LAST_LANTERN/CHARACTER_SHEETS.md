@@ -6,14 +6,14 @@ Check this file before using mechanics. If deeper detail is needed, consult arch
 
 - Mountain Dwarf.
 - Champion Fighter 8.
-- XP 46,900 / 48,000.
-- HP 84/84.
+- XP 47,650 / 48,000.
+- Current HP: 58/84 before any pending hit dice healing after the Greybridge short rest.
 - AC 18.
 - Speed 25 ft.
 - Proficiency Bonus +3.
 - STR 20, DEX 14, CON 18, INT 12, WIS 15, CHA 8.
 - Saves: STR +8, CON +7.
-- Skills: Athletics +11, Perception +5. Other skill proficiencies should be verified from archive if needed.
+- Skills: Athletics +11, Perception +5, Insight +2. Other skill proficiencies should be verified from archive if needed.
 - Fighting Style: Dueling.
 - Action Surge 1/short rest.
 - Second Wind 1d10 + 8, 1/short rest.
@@ -64,6 +64,15 @@ Average Fighter HP with CON 18:
 - +2 AC.
 - Hold Behind Me: 1/short rest reaction to impose disadvantage on an attack against an adjacent ally; if it still hits, reduce damage by 1d6.
 
+### Armor Note
+
+Brannok is wearing breastplate and carrying the Carter's Rest Shield.
+
+- Breastplate: AC 14 + DEX modifier, maximum +2.
+- Shield: +2 AC.
+- Total AC: 18.
+- No disadvantage on Stealth from breastplate.
+
 ### Important Items
 
 - Grey Knit Cap of the Rest.
@@ -75,11 +84,11 @@ Average Fighter HP with CON 18:
 
 - Archfey Warlock 10.
 - Pact of the Chain.
-- XP 77,750 / 85,000.
+- XP 78,500 / 85,000.
 - HP 75/75.
 - AC: use Armor of Shadows / Mage Armor if active, plus DEX as applicable from archived sheet.
 - Proficiency Bonus +4.
-- Pact slots: 2/2 after long rest.
+- Pact slots: 2/2 after short rest.
 - Pact slots are 5th-level.
 - Spell save DC: 17.
 - Spell attack: +9.
@@ -147,8 +156,8 @@ Closed-eye charm: handmade silver closed-eye necklace from Selene's mother. No g
 
 | Character | Level/Class | XP | Notes |
 |---|---:|---:|---|
-| Brannok Ashhelm | Champion Fighter 8 | 46,900 / 48,000 | HP 84; Crusher/Sentinel/Skill Expert Athletics; Dueling style. |
-| Selene Vaer | Archfey Warlock 10 | 77,750 / 85,000 | HP 75; DC 17; spell attack +9; Pact of Chain; Ves; threshold patron. |
+| Brannok Ashhelm | Champion Fighter 8 | 47,650 / 48,000 | HP 58/84 before pending hit dice; Crusher/Sentinel/Skill Expert Athletics; Dueling style; Road-Hammer attack +9, Athletics +11. |
+| Selene Vaer | Archfey Warlock 10 | 78,500 / 85,000 | HP 75; DC 17; spell attack +9; Pact of Chain; Ves; threshold patron. |
 | Marcella Viretti | Lore Bard 10 | 71,000 / 85,000 | Active Bardic Inspiration/Cutting Words/spell support. |
 | Mara | Living Wall/Cavalier Fighter 9 | 56,000 / 64,000 | Defensive wall; Bellbreaker is her sword/nickname. |
 | Needle / Nessa | Swashbuckler Rogue 10 | 77,750 / 85,000 | Scout/mobile striker; no surname used in active file to avoid collision. |
@@ -157,6 +166,17 @@ Closed-eye charm: handmade silver closed-eye necklace from Selene's mother. No g
 | Corren Dask | Pugilist 5 | Level 5 equivalent | Roadhouse Grappler; jokes under stress; restrains/grapples. |
 | Ves | Pseudodragon familiar | — | Selene's Pact familiar; no separate initiative. |
 | Rook | Crow | — | Central Bird; morale support; no PC levels. |
+
+## Current Resource Notes After "The Paper Knife at Greybridge"
+
+Short rest completed.
+
+- Brannok: HP 58/84 before any pending hit dice healing. Action Surge available. Second Wind available. Reaction/resources reset after rest. Road-Hammer attack is +9; Athletics is +11.
+- Selene: HP 75/75. Pact slots 2/2. Fey Presence available. Misty Escape available. Ves available and healed.
+- Ves: HP 7/7 after short rest healing.
+- Marcella: Bardic Inspiration restored after short rest. One 2nd-level spell slot expended for Dissonant Whispers. Other spell slots should be checked if needed.
+- Mara: took 8 damage during the Greybridge yard attack; exact current HP pending if not tracked elsewhere.
+- Corren: took 9 damage during the Greybridge yard attack; exact current HP pending if not tracked elsewhere.
 
 ## Homebrew Mechanics — Zula Ozu, Wardwright Tattooist Artificer
 
