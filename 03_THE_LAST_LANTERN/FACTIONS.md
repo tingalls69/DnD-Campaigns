@@ -4,9 +4,9 @@
 
 Refugee and witness convoy. Soup, wagons, tired guards, children, livestock, broken wheels, evidence satchels, scared people, and heroes who need to sleep but will not.
 
-The Hearthline survived the South Lantern Waystation attack and reached Greybridge. It is now vulnerable to custody theft by paperwork.
+The Hearthline survived the South Lantern Waystation attack and reached Greybridge.
 
-After "The Paper Knife at Greybridge," the immediate false custody transfer was stopped. The witnesses remain in Greybridge, but the enemy has shown it can use real seals, altered destinations, false officials, and violence in the same operation.
+After "The Paper Knife at Greybridge," the immediate false custody transfer was stopped. The witnesses remain in Greybridge, but the enemy has confirmed a repeatable method: real seals, altered destinations, false officials, targeted witness extraction, and violence when exposed. Future custody theft may recur elsewhere even though the Greybridge attempt failed.
 
 ## The Iron Road
 
@@ -47,6 +47,8 @@ Known elements:
 - mill sluice routes
 - hidden ice-cellar escape cuts
 - Old Bellweather House / South Lantern Relay
+- South Lantern Continuity Office
+- road-arch token / command-mask network
 
 ## South Lantern Continuity Office
 

@@ -62,6 +62,7 @@ Final scene position:
 - Sergeant Brindle Korran: Greybridge night-watch sergeant. He helped secure wagons and prisoners and now recognizes that Greybridge's prisoner searches need to be stricter.
 - Taman: clerk assisting Elowen and Mirelle.
 - Pella Morn: young Hearthline witness with a burn scar on her wrist. She was the specific target of the false transfer. She knows a hidden service route to Bellweather House.
+  - Protected profile: `protected_characters/Pella_Morn.md`.
 - Hearthline witnesses, children, wounded, guards, and rescued civilians.
 
 ## Explicit Absences / Do Not Import

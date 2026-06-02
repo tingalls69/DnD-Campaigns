@@ -79,12 +79,22 @@ Include:
 - sealed Road Works archive room
 - ward relay chamber
 - bell tower or signal chamber
-- smuggler route / old service tunnel
+- hidden servant-road entrance beneath the rain steps and behind the old ash trough
 - false safety markers
 - unlit lantern symbol
 - tactical fight near bell/relay
 - hazard where breaking the wrong thing destroys evidence or harms captives
 - character-specific spotlight opportunities
+
+Pella Morn knows the servant-road entrance but must not be treated as a required key or dragged into danger by default. The second south-bell hearing threat should make her involvement an informed player-facing risk.
+
+## Bellweather-Specific Secrets
+
+- The south bell should matter before the dungeon is fully understood.
+- Pella hearing the south bell a second time is dangerous, but the exact effect should be revealed through play, not exposition.
+- The command mask may prevent the masked coordinator from speaking freely, relay commands from elsewhere, suppress identity, or punish disobedience. Do not remove it casually without consequences or countermeasures.
+- The South Lantern Continuity Office should feel like an official-looking mechanism that turns people into transferable objects.
+- Bellweather should contain at least one person who can be saved now, not just evidence about people already harmed.
 
 ## Threads To Plant Subtly
 

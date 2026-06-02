@@ -30,6 +30,8 @@ Young Hearthline witness with a burn scar on her wrist.
 
 Current status: Safe for now inside the Greybridge wayhouse, near the hearth with Mara and Rook nearby.
 
+Protected profile: `protected_characters/Pella_Morn.md`. Load or summarize before portraying her in a scene.
+
 Pella was the specific target of Halven Rusk's false custody transfer. She knows a hidden servant-road entrance to Old Bellweather House / South Lantern Relay: under the rain steps, behind the old ash trough, accessible when water is running; the stones move correctly only when water runs.
 
 She has heard the south bell once in her sleep. A recovered note says not to let her hear it twice.

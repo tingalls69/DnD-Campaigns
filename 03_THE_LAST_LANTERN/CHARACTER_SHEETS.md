@@ -86,13 +86,14 @@ Brannok is wearing breastplate and carrying the Carter's Rest Shield.
 - Pact of the Chain.
 - XP 78,500 / 85,000.
 - HP 75/75.
-- AC: use Armor of Shadows / Mage Armor if active, plus DEX as applicable from archived sheet.
+- AC 15 with Armor of Shadows / Mage Armor active; AC 12 without Mage Armor.
 - Proficiency Bonus +4.
 - Pact slots: 2/2 after short rest.
 - Pact slots are 5th-level.
 - Spell save DC: 17.
 - Spell attack: +9.
 - Familiar: Ves, pseudodragon.
+- DEX 15 for AC/initiative checks unless a later active sheet supersedes this.
 
 ### Patron Features
 
@@ -174,9 +175,9 @@ Short rest completed.
 - Brannok: HP 58/84 before any pending hit dice healing. Action Surge available. Second Wind available. Reaction/resources reset after rest. Road-Hammer attack is +9; Athletics is +11.
 - Selene: HP 75/75. Pact slots 2/2. Fey Presence available. Misty Escape available. Ves available and healed.
 - Ves: HP 7/7 after short rest healing.
-- Marcella: Bardic Inspiration restored after short rest. One 2nd-level spell slot expended for Dissonant Whispers. Other spell slots should be checked if needed.
-- Mara: took 8 damage during the Greybridge yard attack; exact current HP pending if not tracked elsewhere.
-- Corren: took 9 damage during the Greybridge yard attack; exact current HP pending if not tracked elsewhere.
+- Marcella: Bardic Inspiration restored after short rest. Spell slots currently 1st 4/4, 2nd 2/3, 3rd 3/3, 4th 3/3, 5th 2/2, after spending one 2nd-level slot for Dissonant Whispers.
+- Mara: HP 69/77 if no short-rest hit dice are spent, after taking 8 damage during the Greybridge yard attack.
+- Corren: HP 29/38 if no short-rest hit dice are spent, after taking 9 damage during the Greybridge yard attack.
 
 ## Homebrew Mechanics — Zula Ozu, Wardwright Tattooist Artificer
 

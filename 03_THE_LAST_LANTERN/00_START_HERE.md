@@ -22,6 +22,10 @@ Read these files in order:
 14. `STORY_ARC.md`
 15. Relevant archived source files only when an active file says a detail needs verification.
 
+When preparing or running Bellweather House, also load `BELLWEATHER_HOUSE_PREP.md`.
+
+If Pella Morn appears or is discussed in detail, load or summarize `protected_characters/Pella_Morn.md` before portraying her.
+
 ## Core Running Principle
 
 Player agency is the highest priority. Never decide Brannok or Selene's actions, dialogue, thoughts, feelings, or choices.

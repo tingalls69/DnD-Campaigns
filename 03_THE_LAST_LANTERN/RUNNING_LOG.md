@@ -63,9 +63,9 @@ Resource state after short rest:
 - Brannok: 58/84 HP before any pending hit dice healing. Action Surge and Second Wind restored.
 - Selene: 75/75 HP, pact slots 2/2, Fey Presence available, Misty Escape available.
 - Ves: healed to 7/7.
-- Marcella: Bardic Inspiration restored; one 2nd-level slot expended for Dissonant Whispers.
-- Mara: took 8 damage; current HP pending.
-- Corren: took 9 damage; current HP pending.
+- Marcella: Bardic Inspiration restored; spell slots currently 1st 4/4, 2nd 2/3, 3rd 3/3, 4th 3/3, 5th 2/2.
+- Mara: HP 69/77 if no short-rest hit dice are spent.
+- Corren: HP 29/38 if no short-rest hit dice are spent.
 
 Recovered evidence:
 

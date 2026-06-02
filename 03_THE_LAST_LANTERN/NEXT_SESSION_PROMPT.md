@@ -23,6 +23,8 @@ Start with the current immediate scene from `CURRENT_STATE.md`. Do not lore dump
 
 Late morning in Greybridge, inside the secured wayhouse, after the failed false custody transfer and yard attack.
 
+If the session moves into Bellweather planning or approach, load `BELLWEATHER_HOUSE_PREP.md`. If Pella Morn is portrayed directly, load or summarize `protected_characters/Pella_Morn.md` first.
+
 The short rest is complete. Prisoners are bound and separated. Pella Morn is safe for now near the hearth with Mara and Rook close by. Mirelle is cataloguing evidence. Zula has bound the road-arch tokens. Selene has checked Ves's wound. Brannok has confirmed prisoner binds and searches.
 
 The next live decision is not "fight now." It is what the party does with the evidence, prisoners, Pella's knowledge, and the Bellweather lead.

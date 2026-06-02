@@ -33,7 +33,7 @@ Use this before any immediate danger. `CHARACTER_SHEETS.md` remains authoritativ
 - Archfey Warlock 10, Pact of the Chain.
 - XP 78,500 / 85,000.
 - HP 75/75.
-- AC: use Armor of Shadows / Mage Armor if active, plus DEX from archived sheet if exact AC matters.
+- AC 15 with Armor of Shadows / Mage Armor active; AC 12 without Mage Armor.
 - PB +4.
 - Spell save DC 17.
 - Spell attack +9.
@@ -46,9 +46,9 @@ Use this before any immediate danger. `CHARACTER_SHEETS.md` remains authoritativ
 
 ## Current Ally Resource Notes
 
-- Marcella: Bardic Inspiration restored after short rest. One 2nd-level spell slot expended for Dissonant Whispers.
-- Mara: took 8 damage during the Greybridge yard attack; exact current HP pending if not tracked elsewhere.
-- Corren: took 9 damage during the Greybridge yard attack; exact current HP pending if not tracked elsewhere.
+- Marcella: Bardic Inspiration restored after short rest. Spell slots currently 1st 4/4, 2nd 2/3, 3rd 3/3, 4th 3/3, 5th 2/2.
+- Mara: HP 69/77 if no short-rest hit dice are spent.
+- Corren: HP 29/38 if no short-rest hit dice are spent.
 - Ves: HP 7/7 after short rest healing. Acts on Selene's initiative and follows Selene's command.
 - Rook: normal soot-black crow, Central Bird, not magical, not a druid, not a familiar. No independent combat turns unless player directs or noncombat scene behavior calls for it.
 
